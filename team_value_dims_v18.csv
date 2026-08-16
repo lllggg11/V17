@@ -1,0 +1,776 @@
+team_name,team_name_en,team_name_cn,league,d82_total_value,d83_starter_value,d82_unit,data_source,fetched_at
+1. FC Heidenheim 1846,1. FC Heidenheim 1846,1. FC Heidenheim 1846,ger.1,67500000.0,13000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Kaiserslautern,1. FC Kaiserslautern,1. FC Kaiserslautern,ger.2,41174999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Köln,1. FC Köln,1. FC Köln,ger.1,102880000.0,42625000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Magdeburg,1. FC Magdeburg,1. FC Magdeburg,ger.2,44520000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Nürnberg,1. FC Nürnberg,1. FC Nürnberg,ger.2,48450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Saarbrücken,1. FC Saarbrücken,1. FC Saarbrücken,ger.3,22710000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Schweinfurt 05,1. FC Schweinfurt 05,1. FC Schweinfurt 05,ger.3,14740000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FC Union Berlin,1. FC Union Berlin,1. FC Union Berlin,ger.1,131525000.0,70000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+1. FSV Mainz 05,1. FSV Mainz 05,1. FSV Mainz 05,ger.1,184185000.0,145300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AC Milan,AC Milan,AC Milan,ita.1,474525000.0,460100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AD Ceuta FC,AD Ceuta FC,AD Ceuta FC,esp.2,21805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AEK Athens,AEK Athens,AEK Athens,sui.1,123599999.0,73500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AFC Bournemouth,AFC Bournemouth,AFC Bournemouth,eng.1,295300000.0,248000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AFC Wimbledon,AFC Wimbledon,AFC Wimbledon,eng.3,11785000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AJ Auxerre,AJ Auxerre,AJ Auxerre,fra.1,72650000.0,3700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+APOEL FC,APOEL FC,APOEL FC,1._Division,32700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AS Monaco,AS Monaco,AS Monaco,fra.1,311750000.0,285900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AS Nancy Lorraine,AS Nancy Lorraine,AS Nancy Lorraine,fra.2,14160000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AS Saint-Étienne,AS Saint-Étienne,AS Saint-Étienne,fra.2,60380000.0,12500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+AVS Futebol SAD,AVS Futebol SAD,AVS Futebol SAD,por.1,38130000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Aarhus Gymnastikforening,Aarhus Gymnastikforening,Aarhus Gymnastikforening,den.1,30225000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Aberdeen,Aberdeen,Aberdeen,sco.1,38435000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Academia Puerto Cabello,Academia Puerto Cabello,Academia Puerto Cabello,Primera_Division,15310000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Accrington Stanley,Accrington Stanley,Accrington Stanley,eng.4,8095000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Adelaide United,Adelaide United,Adelaide United,aus.1,14430000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Ajax,Ajax,Ajax,ned.1,196250000.0,136625000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Ahli SFC,Al Ahli SFC,Al Ahli SFC,bel.1,201680000.0,180000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Ain,Al Ain,Al Ain,bel.1,64365000.0,37500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Akhdoud Saudi Club,Al Akhdoud Saudi Club,Al Akhdoud Saudi Club,bel.1,17459999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Ettifaq,Al Ettifaq,Al Ettifaq,bel.1,45705000.0,20500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Fateh,Al Fateh,Al Fateh,bel.1,44265000.0,28800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Fayha,Al Fayha,Al Fayha,bel.1,27575000.0,11000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Hazem FC,Al Hazem FC,Al Hazem FC,bel.1,20260000.0,10500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Hilal,Al Hilal,Al Hilal,bel.1,314020000.0,287000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Ittihad,Al Ittihad,Al Ittihad,bel.1,217015000.0,189500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Khaleej,Al Khaleej,Al Khaleej,bel.1,35470000.0,17125000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Kholood,Al Kholood,Al Kholood,bel.1,21495000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Nassr,Al Nassr,Al Nassr,bel.1,203609999.0,174000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Qadsiah FC,Al Qadsiah FC,Al Qadsiah FC,bel.1,172150000.0,153500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Riyadh,Al Riyadh,Al Riyadh,bel.1,21305000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Shabab,Al Shabab,Al Shabab,bel.1,77445000.0,62125000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al Taawoun FC,Al Taawoun FC,Al Taawoun FC,bel.1,60100000.0,40600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Al-Najma SC,Al-Najma SC,Al-Najma SC,bel.1,17995000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Alanyaspor,Alanyaspor,Alanyaspor,tur.1,37835000.0,625000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Albacete Balompié,Albacete Balompié,Albacete Balompié,esp.2,29595000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Alemannia Aachen,Alemannia Aachen,Alemannia Aachen,ger.3,18775000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Alianza Lima,Alianza Lima,Alianza Lima,Liga_1,31675000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Alverca,Alverca,Alverca,por.1,41725000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Amiens SC,Amiens SC,Amiens SC,fra.2,23540000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+América de Cali,América de Cali,América de Cali,Categoría_Primera_A,37220000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Angers SCO,Angers SCO,Angers SCO,fra.1,53375000.0,10500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Antalyaspor,Antalyaspor,Antalyaspor,tur.1,37409999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Argentinos Juniors,Argentinos Juniors,Argentinos Juniors,arg.1,62200000.0,5000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Arka Gdynia,Arka Gdynia,Arka Gdynia,pol.1,13965000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Arsenal,Arsenal,Arsenal,eng.1,1145000000.0,1145000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Asociația Clubul Sportiv Petrolul 52,Asociația Clubul Sportiv Petrolul 52,Asociația Clubul Sportiv Petrolul 52,rou.1,17750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Aston Villa,Aston Villa,Aston Villa,eng.1,504400000.0,492500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atalanta,Atalanta,Atalanta,ita.1,412770000.0,385900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Athletic Club,Athletic Club,Athletic Club,esp.1,500900000.0,455900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlanta United,Atlanta United,Atlanta United,usa.1,51579999.0,20000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Bucaramanga,Atlético Bucaramanga,Atlético Bucaramanga,Categoría_Primera_A,21740000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Grau,Atlético Grau,Atlético Grau,Liga_1,15740000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Madrid,Atlético Madrid,Atlético Madrid,esp.1,757600000.0,745000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Mineiro,Atlético Mineiro,Atlético Mineiro,bra.1,140750000.0,121300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Nacional,Atlético Nacional,Atlético Nacional,Categoría_Primera_A,55050000.0,9825000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlético Tucumán,Atlético Tucumán,Atlético Tucumán,arg.1,34550000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Auckland FC,Auckland FC,Auckland FC,aus.1,15675000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Austin FC,Austin FC,Austin FC,usa.1,31120000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Avellino,Avellino,Avellino,ita.2,29830000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+BK Häcken,BK Häcken,BK Häcken,swe.1,31060000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+BSC Young Boys,BSC Young Boys,BSC Young Boys,sui.1,54540000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bahia,Bahia,Bahia,bra.1,62500000.0,37200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Barcelona de Guayaquil,Barcelona de Guayaquil,Barcelona de Guayaquil,ita.1,28850000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Barnet,Barnet,Barnet,eng.4,12275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Barnsley,Barnsley,Barnsley,eng.3,20330000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Barracas Central,Barracas Central,Barracas Central,arg.1,36600000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Barrow,Barrow,Barrow,eng.4,9385000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bayer 04 Leverkusen,Bayer 04 Leverkusen,Bayer 04 Leverkusen,ger.1,430150000.0,396400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Beijing Guoan,Beijing Guoan,Beijing Guoan,sui.1,20985000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Belgrano de Córdoba,Belgrano de Córdoba,Belgrano de Córdoba,arg.1,54920000.0,16500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bengaluru FC,Bengaluru FC,Bengaluru FC,sui.1,4625000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Beşiktaş JK,Beşiktaş JK,Beşiktaş JK,tur.1,180999998.0,142900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Birmingham City,Birmingham City,Birmingham City,eng.2,79830000.0,20000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Blackburn Rovers,Blackburn Rovers,Blackburn Rovers,eng.2,39980000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Blackpool FC,Blackpool FC,Blackpool FC,eng.3,23625000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Blau-Weiß Linz,Blau-Weiß Linz,Blau-Weiß Linz,ger.1,23990000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Boca Juniors,Boca Juniors,Boca Juniors,arg.1,134150000.0,65600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bohemian FC,Bohemian FC,Bohemian FC,Premier_Division,7980000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bologna,Bologna,Bologna,ita.1,211955000.0,157000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bolton Wanderers,Bolton Wanderers,Bolton Wanderers,eng.3,33665000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bolívar,Bolívar,Bolívar,División_de_Fútbol_Profesional,20900000.0,1900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Borussia Dortmund,Borussia Dortmund,Borussia Dortmund,ger.1,583350000.0,558450000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Borussia Mönchengladbach,Borussia Mönchengladbach,Borussia Mönchengladbach,ger.1,173940000.0,126500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Boston River,Boston River,Boston River,Primera_División,25535000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Botafogo,Botafogo,Botafogo,bra.1,97299998.0,63525000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bradford City,Bradford City,Bradford City,eng.3,13870000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Brentford,Brentford,Brentford,eng.1,238925000.0,187900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Brighton & Hove Albion,Brighton & Hove Albion,Brighton & Hove Albion,eng.1,330450000.0,291600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Brisbane Roar,Brisbane Roar,Brisbane Roar,aus.1,9865000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bristol City,Bristol City,Bristol City,eng.2,58515000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bristol Rovers,Bristol Rovers,Bristol Rovers,eng.4,15930000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bromley,Bromley,Bromley,eng.4,9140000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bruk-Bet Termalica Nieciecza,Bruk-Bet Termalica Nieciecza,Bruk-Bet Termalica Nieciecza,pol.1,14590000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Bryne FK,Bryne FK,Bryne FK,nor.1,14710000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Brøndby IF,Brøndby IF,Brøndby IF,den.1,37375000.0,4800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Burgos CF,Burgos CF,Burgos CF,esp.2,36450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Burnley,Burnley,Burnley,eng.1,170315000.0,87600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Burton Albion,Burton Albion,Burton Albion,eng.3,17080000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CA Aldosivi,CA Aldosivi,CA Aldosivi,arg.1,35820000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CA Banfield,CA Banfield,CA Banfield,arg.1,42700000.0,2400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CA Osasuna,CA Osasuna,CA Osasuna,esp.1,193150000.0,157800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Castellón,CD Castellón,CD Castellón,esp.2,27975000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Leganés,CD Leganés,CD Leganés,esp.2,52740000.0,15000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Mirandés,CD Mirandés,CD Mirandés,esp.2,38270000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Nacional,CD Nacional,CD Nacional,por.1,38005000.0,4300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Palestino,CD Palestino,CD Palestino,Primera_Division,20545000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CD Tondela,CD Tondela,CD Tondela,por.1,35700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CF Montréal,CF Montréal,CF Montréal,usa.1,23175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+CFR Cluj,CFR Cluj,CFR Cluj,rou.1,43120000.0,4600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cagliari,Cagliari,Cagliari,ita.1,105875000.0,60500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cambridge United,Cambridge United,Cambridge United,eng.4,12900000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Carabobo FC,Carabobo FC,Carabobo FC,Primera_Division,21500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Caracas FC,Caracas FC,Caracas FC,Primera_Division,20500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cardiff City,Cardiff City,Cardiff City,eng.3,37985000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Carrarese,Carrarese,Carrarese,ita.2,32835000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Casa Pia,Casa Pia,Casa Pia,por.1,43635000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Catanzaro,Catanzaro,Catanzaro,ita.2,31725000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Central Coast Mariners,Central Coast Mariners,Central Coast Mariners,aus.1,9805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Central Cordoba SdE,Central Cordoba SdE,Central Cordoba SdE,arg.1,36270000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cercle Brugge KSV,Cercle Brugge KSV,Cercle Brugge KSV,bel.1,45805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cerro Largo,Cerro Largo,Cerro Largo,Primera_División,16600000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cerro Porteño,Cerro Porteño,Cerro Porteño,División_Profesional,34555000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cesena FC,Cesena FC,Cesena FC,ita.2,26595000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Changchun Yatai,Changchun Yatai,Changchun Yatai,sui.1,8080000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Charlotte FC,Charlotte FC,Charlotte FC,usa.1,52655000.0,21800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Charlton Athletic,Charlton Athletic,Charlton Athletic,eng.2,30425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Chelsea,Chelsea,Chelsea,eng.1,801100000.0,786000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cheltenham Town,Cheltenham Town,Cheltenham Town,eng.4,10435000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Chengdu Rongcheng,Chengdu Rongcheng,Chengdu Rongcheng,sui.1,21625000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Chennaiyin FC,Chennaiyin FC,Chennaiyin FC,sui.1,2985000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Chesterfield,Chesterfield,Chesterfield,eng.4,11010000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Chicago Fire,Chicago Fire,Chicago Fire,usa.1,51165000.0,27000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cienciano,Cienciano,Cienciano,Liga_1,16015000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Clermont Foot 63,Clermont Foot 63,Clermont Foot 63,fra.2,18050000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Club Atlético San Martín,Club Atlético San Martín,Club Atlético San Martín,arg.1,23425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Club Atlético Sarmiento,Club Atlético Sarmiento,Club Atlético Sarmiento,arg.1,32175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Club Atlético Unión,Club Atlético Unión,Club Atlético Unión,arg.1,38000000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Club Nacional de Football,Club Nacional de Football,Club Nacional de Football,Primera_División,40225000.0,12000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Club Olimpia,Club Olimpia,Club Olimpia,División_Profesional,22775000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Colchester United,Colchester United,Colchester United,eng.4,12405000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Colo-Colo,Colo-Colo,Colo-Colo,Primera_Division,47600000.0,6500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Colorado Rapids,Colorado Rapids,Colorado Rapids,usa.1,41845000.0,11500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Columbus Crew,Columbus Crew,Columbus Crew,usa.1,42744999.0,9100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Como,Como,Como,ita.1,225384999.0,173200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Corinthians,Corinthians,Corinthians,bra.1,92975000.0,65000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cork City,Cork City,Cork City,Premier_Division,6775000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Coventry City,Coventry City,Coventry City,eng.2,62100000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cracovia,Cracovia,Cracovia,pol.1,31845000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Crawley Town,Crawley Town,Crawley Town,eng.4,12350000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cremonese,Cremonese,Cremonese,ita.1,87175000.0,26600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Crewe Alexandra,Crewe Alexandra,Crewe Alexandra,eng.4,12930000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cruzeiro,Cruzeiro,Cruzeiro,bra.1,51049999.0,25600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Crystal Palace,Crystal Palace,Crystal Palace,eng.1,353000000.0,324000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Csíkszereda Miercurea Ciuc,Csíkszereda Miercurea Ciuc,Csíkszereda Miercurea Ciuc,rou.1,9790000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cultural Leonesa,Cultural Leonesa,Cultural Leonesa,esp.2,28805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Cádiz CF,Cádiz CF,Cádiz CF,esp.2,45100000.0,8500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Córdoba CF,Córdoba CF,Córdoba CF,esp.2,33125000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+DC United,DC United,DC United,usa.1,26645000.0,2700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+DSC Arminia Bielefeld,DSC Arminia Bielefeld,DSC Arminia Bielefeld,ger.2,34750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Daegu FC,Daegu FC,Daegu FC,kor.1,18485000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Daejeon Citizen,Daejeon Citizen,Daejeon Citizen,kor.1,27770000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dalian Yingbo,Dalian Yingbo,Dalian Yingbo,sui.1,12865000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Damac FC,Damac FC,Damac FC,bel.1,15480000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia,arg.1,44055000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Degerfors IF,Degerfors IF,Degerfors IF,swe.1,15395000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Deportes Iquique,Deportes Iquique,Deportes Iquique,Primera_Division,11500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Deportivo Alavés,Deportivo Alavés,Deportivo Alavés,esp.1,98274999.0,37000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Deportivo Riestra,Deportivo Riestra,Deportivo Riestra,arg.1,16420000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Deportivo Táchira,Deportivo Táchira,Deportivo Táchira,Primera_Division,17990000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Derby County,Derby County,Derby County,eng.2,45475000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Derry City,Derry City,Derry City,Premier_Division,7125000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dinamo Bucureşti,Dinamo Bucureşti,Dinamo Bucureşti,rou.1,28515000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Djurgårdens IF,Djurgårdens IF,Djurgårdens IF,swe.1,29450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Doncaster Rovers,Doncaster Rovers,Doncaster Rovers,eng.3,14500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Drogheda United,Drogheda United,Drogheda United,Premier_Division,6890000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dundee FC,Dundee FC,Dundee FC,sco.1,14675000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dundee United FC,Dundee United FC,Dundee United FC,sco.1,21065000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dynamo Dresden,Dynamo Dresden,Dynamo Dresden,ger.2,28590000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Dynamo Kyiv,Dynamo Kyiv,Dynamo Kyiv,eng.1,90870000.0,47000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+ESTAC Troyes,ESTAC Troyes,ESTAC Troyes,fra.2,31205000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+East Bengal FC,East Bengal FC,East Bengal FC,sui.1,6684000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Eintracht Braunschweig,Eintracht Braunschweig,Eintracht Braunschweig,ger.2,33525000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Eintracht Frankfurt,Eintracht Frankfurt,Eintracht Frankfurt,ger.1,342890000.0,288500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Elche CF,Elche CF,Elche CF,esp.1,85075000.0,34125000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Empoli,Empoli,Empoli,ita.2,41725000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+En Avant Guingamp,En Avant Guingamp,En Avant Guingamp,fra.2,25175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Estrela da Amadora,Estrela da Amadora,Estrela da Amadora,por.1,38385000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Estudiantes de La Plata,Estudiantes de La Plata,Estudiantes de La Plata,arg.1,84699999.0,28900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Everton,Everton,Everton,eng.1,254850000.0,219400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Excelsior,Excelsior,Excelsior,ned.1,36150000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Exeter City,Exeter City,Exeter City,eng.3,17700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Eyüpspor,Eyüpspor,Eyüpspor,tur.1,36865000.0,4600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FBC Melgar,FBC Melgar,FBC Melgar,Liga_1,23475000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Andorra,FC Andorra,FC Andorra,esp.2,29125000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Annecy,FC Annecy,FC Annecy,fra.2,17845000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Anyang,FC Anyang,FC Anyang,kor.1,15635000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Argeș,FC Argeș,FC Argeș,rou.1,11425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Arouca,FC Arouca,FC Arouca,por.1,47550000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Augsburg,FC Augsburg,FC Augsburg,ger.1,147700000.0,88300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Barcelona,FC Barcelona,FC Barcelona,esp.1,1133000000.0,1110200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Basel 1893,FC Basel 1893,FC Basel 1893,sui.1,73810000.0,21500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Bayern München,FC Bayern München,FC Bayern München,ger.1,910900000.0,899700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Botoşani,FC Botoşani,FC Botoşani,rou.1,19540000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Cincinnati,FC Cincinnati,FC Cincinnati,usa.1,76035000.0,42000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Dallas,FC Dallas,FC Dallas,usa.1,32745000.0,9000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Energie Cottbus,FC Energie Cottbus,FC Energie Cottbus,ger.3,17405000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Erzgebirge Aue,FC Erzgebirge Aue,FC Erzgebirge Aue,ger.3,17435000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Goa,FC Goa,FC Goa,sui.1,8900000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Groningen,FC Groningen,FC Groningen,ned.1,35325000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Hansa Rostock,FC Hansa Rostock,FC Hansa Rostock,ger.3,23220000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Hermannstadt,FC Hermannstadt,FC Hermannstadt,rou.1,13965000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Ingolstadt 04,FC Ingolstadt 04,FC Ingolstadt 04,ger.3,17535000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC København,FC København,FC København,den.1,73125000.0,21300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Lausanne-Sport,FC Lausanne-Sport,FC Lausanne-Sport,sui.1,27680000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Lorient,FC Lorient,FC Lorient,fra.1,67379999.0,7700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Lugano,FC Lugano,FC Lugano,sui.1,45090000.0,3500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Luzern,FC Luzern,FC Luzern,sui.1,30305000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Metz,FC Metz,FC Metz,fra.1,51650000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Midtjylland,FC Midtjylland,FC Midtjylland,den.1,64310000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Nantes,FC Nantes,FC Nantes,fra.1,68625000.0,15900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Nordsjælland,FC Nordsjælland,FC Nordsjælland,den.1,30780000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Porto,FC Porto,FC Porto,por.1,270900000.0,240000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Red Bull Salzburg,FC Red Bull Salzburg,FC Red Bull Salzburg,ger.1,70580000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Schalke 04,FC Schalke 04,FC Schalke 04,ger.2,37275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Seoul,FC Seoul,FC Seoul,kor.1,30660000.0,10700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Sion,FC Sion,FC Sion,sui.1,26915000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC St. Pauli,FC St. Pauli,FC St. Pauli,ger.1,65975000.0,23400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC St.Gallen 1879,FC St.Gallen 1879,FC St.Gallen 1879,sui.1,31265000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Thun,FC Thun,FC Thun,sui.1,20360000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Utrecht,FC Utrecht,FC Utrecht,ned.1,86925000.0,32600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Volendam,FC Volendam,FC Volendam,ned.1,26250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Winterthur,FC Winterthur,FC Winterthur,sui.1,18395000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FC Zürich,FC Zürich,FC Zürich,sui.1,30290000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FCSB,FCSB,FCSB,rou.1,40849999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FCV Dender EH,FCV Dender EH,FCV Dender EH,bel.1,25745000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FCV Farul Constanța,FCV Farul Constanța,FCV Farul Constanța,rou.1,20175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FK Austria Wien,FK Austria Wien,FK Austria Wien,ger.1,26820000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FK Bodø/Glimt,FK Bodø/Glimt,FK Bodø/Glimt,nor.1,61200000.0,12000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+FK Haugesund,FK Haugesund,FK Haugesund,nor.1,18750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Falkirk,Falkirk,Falkirk,sco.1,10215000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Famalicão,Famalicão,Famalicão,por.1,75400000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fatih Karagümrük,Fatih Karagümrük,Fatih Karagümrük,tur.1,29270000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fenerbahçe SK,Fenerbahçe SK,Fenerbahçe SK,tur.1,335000000.0,312000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Ferencvárosi Torna Club,Ferencvárosi Torna Club,Ferencvárosi Torna Club,Nemzeti_Bajnokság_I,64855000.0,13900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fiorentina,Fiorentina,Fiorentina,ita.1,239850000.0,176500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Flamengo,Flamengo,Flamengo,bra.1,151200000.0,125900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fleetwood Town,Fleetwood Town,Fleetwood Town,eng.4,11125000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fluminense,Fluminense,Fluminense,bra.1,76925000.0,47800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fortaleza,Fortaleza,Fortaleza,bra.1,36849998.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fortuna Düsseldorf,Fortuna Düsseldorf,Fortuna Düsseldorf,ger.2,44650000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fortuna Sittard,Fortuna Sittard,Fortuna Sittard,ned.1,36750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fredericia,Fredericia,Fredericia,den.1,16225000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fredrikstad FK,Fredrikstad FK,Fredrikstad FK,nor.1,23055000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Frosinone,Frosinone,Frosinone,ita.2,29260000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Fulham FC,Fulham FC,Fulham FC,eng.1,238200000.0,224500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+GAIS,GAIS,GAIS,swe.1,20055000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+GD Estoril Praia,GD Estoril Praia,GD Estoril Praia,por.1,49800000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+GKS Katowice,GKS Katowice,GKS Katowice,pol.1,21480000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Galatasaray SK,Galatasaray SK,Galatasaray SK,tur.1,425200000.0,412300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Galway United,Galway United,Galway United,Premier_Division,4880000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gangwon FC,Gangwon FC,Gangwon FC,kor.1,23455000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gaziantep FK,Gaziantep FK,Gaziantep FK,tur.1,41139999.0,7599999.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Genoa,Genoa,Genoa,ita.1,95500000.0,39500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gençlerbirliği SK,Gençlerbirliği SK,Gençlerbirliği SK,tur.1,43479999.0,8000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Getafe CF,Getafe CF,Getafe CF,esp.1,127025000.0,88600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gil Vicente FC,Gil Vicente FC,Gil Vicente FC,por.1,51525000.0,7000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gillingham,Gillingham,Gillingham,eng.4,11275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gimcheon Sangmu FC,Gimcheon Sangmu FC,Gimcheon Sangmu FC,kor.1,30225000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gimnasia y Esgrima La Plata,Gimnasia y Esgrima La Plata,Gimnasia y Esgrima La Plata,arg.1,51700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Girona FC,Girona FC,Girona FC,esp.1,206774999.0,182300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Go Ahead Eagles,Go Ahead Eagles,Go Ahead Eagles,ned.1,48350000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Godoy Cruz,Godoy Cruz,Godoy Cruz,arg.1,63825000.0,3500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Granada CF,Granada CF,Granada CF,esp.2,35275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Grasshopper Club Zürich,Grasshopper Club Zürich,Grasshopper Club Zürich,sui.1,22075000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Grazer AK 1902,Grazer AK 1902,Grazer AK 1902,ger.1,18000000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Grenoble Foot 38,Grenoble Foot 38,Grenoble Foot 38,fra.2,28560000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Grimsby Town,Grimsby Town,Grimsby Town,eng.4,11885000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Grêmio,Grêmio,Grêmio,bra.1,44750000.0,10300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gualberto Villarroel SJ,Gualberto Villarroel SJ,Gualberto Villarroel SJ,División_de_Fútbol_Profesional,11980000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Guaraní,Guaraní,Guaraní,División_Profesional,22605000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Gwangju FC,Gwangju FC,Gwangju FC,kor.1,13375000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Górnik Zabrze,Górnik Zabrze,Górnik Zabrze,pol.1,24965000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Göztepe SK,Göztepe SK,Göztepe SK,tur.1,32745000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+HJK Helsinki,HJK Helsinki,HJK Helsinki,Veikkausliiga,16315000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Halmstads BK,Halmstads BK,Halmstads BK,swe.1,15870000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hamarkameratene,Hamarkameratene,Hamarkameratene,nor.1,17490000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hamburger SV,Hamburger SV,Hamburger SV,ger.1,103275000.0,43000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hammarby Fotboll,Hammarby Fotboll,Hammarby Fotboll,swe.1,34715000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hannover 96,Hannover 96,Hannover 96,ger.2,45500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Harrogate Town,Harrogate Town,Harrogate Town,eng.4,7275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hearts,Hearts,Hearts,sco.1,36485000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hellas Verona FC,Hellas Verona FC,Hellas Verona FC,ita.1,97625000.0,38500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Henan FC,Henan FC,Henan FC,sui.1,14765000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Heracles Almelo,Heracles Almelo,Heracles Almelo,ned.1,27450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hertha BSC,Hertha BSC,Hertha BSC,ger.2,54000000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hibernian,Hibernian,Hibernian,sco.1,28275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Holstein Kiel,Holstein Kiel,Holstein Kiel,ger.2,47825000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Houston Dynamo,Houston Dynamo,Houston Dynamo,usa.1,33100000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Huddersfield Town,Huddersfield Town,Huddersfield Town,eng.3,31825000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hull City,Hull City,Hull City,eng.2,59200000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Huracán,Huracán,Huracán,arg.1,37950000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Hyderabad FC,Hyderabad FC,Hyderabad FC,sui.1,3519000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IF Brommapojkarna,IF Brommapojkarna,IF Brommapojkarna,swe.1,22510000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IF Elfsborg,IF Elfsborg,IF Elfsborg,swe.1,27320000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IFK Göteborg,IFK Göteborg,IFK Göteborg,swe.1,24320000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IFK Norrköping,IFK Norrköping,IFK Norrköping,swe.1,20185000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IFK Värnamo,IFK Värnamo,IFK Värnamo,swe.1,17250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+IK Sirius,IK Sirius,IK Sirius,swe.1,24700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Independiente,Independiente,Independiente,arg.1,55700000.0,16200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Independiente Rivadavia,Independiente Rivadavia,Independiente Rivadavia,arg.1,45805000.0,11000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Independiente del Valle,Independiente del Valle,Independiente del Valle,ita.1,36650000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Instituto Atlético Central Córdoba,Instituto Atlético Central Córdoba,Instituto Atlético Central Córdoba,arg.1,45625000.0,6500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Inter,Inter,Inter,ita.1,698250000.0,680500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Inter Miami,Inter Miami,Inter Miami,usa.1,99614999.0,69699999.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Internacional,Internacional,Internacional,bra.1,102950000.0,74000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Ipswich Town,Ipswich Town,Ipswich Town,eng.2,103344999.0,47000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Jagiellonia Białystok,Jagiellonia Białystok,Jagiellonia Białystok,pol.1,37780000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Jamshedpur FC,Jamshedpur FC,Jamshedpur FC,sui.1,4575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Jeju United FC,Jeju United FC,Jeju United FC,kor.1,16240000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Jeonbuk Hyundai Motors,Jeonbuk Hyundai Motors,Jeonbuk Hyundai Motors,kor.1,29170000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Juventus,Juventus,Juventus,ita.1,577650000.0,556600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+KAA Gent,KAA Gent,KAA Gent,bel.1,53675000.0,4000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+KFUM-Kameratene Oslo,KFUM-Kameratene Oslo,KFUM-Kameratene Oslo,nor.1,16015000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+KRC Genk,KRC Genk,KRC Genk,bel.1,119175000.0,67100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+KV Mechelen,KV Mechelen,KV Mechelen,bel.1,42350000.0,4000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+KVC Westerlo,KVC Westerlo,KVC Westerlo,bel.1,55655000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Karlsruher SC,Karlsruher SC,Karlsruher SC,ger.2,35555000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kasımpaşa SK,Kasımpaşa SK,Kasımpaşa SK,tur.1,29785000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kayserispor,Kayserispor,Kayserispor,tur.1,31640000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kerala Blasters FC,Kerala Blasters FC,Kerala Blasters FC,sui.1,5135000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kilmarnock,Kilmarnock,Kilmarnock,sco.1,16730000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kocaelispor,Kocaelispor,Kocaelispor,tur.1,38650000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Konyaspor,Konyaspor,Konyaspor,tur.1,28814999.0,2300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Korona Kielce,Korona Kielce,Korona Kielce,pol.1,23575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Kristiansund BK,Kristiansund BK,Kristiansund BK,nor.1,19200000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+LA Galaxy,LA Galaxy,LA Galaxy,usa.1,76025000.0,53000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+LASK Linz,LASK Linz,LASK Linz,ger.1,47175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+LDU Quito,LDU Quito,LDU Quito,ita.1,27925000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lanús,Lanús,Lanús,arg.1,63425000.0,17000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lazio,Lazio,Lazio,ita.1,327025000.0,288500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Le Havre AC,Le Havre AC,Le Havre AC,fra.1,54825000.0,3900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Le Mans FC,Le Mans FC,Le Mans FC,fra.2,17485000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lecce,Lecce,Lecce,ita.1,97225000.0,35300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lech Poznań,Lech Poznań,Lech Poznań,pol.1,48975000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lechia Gdańsk,Lechia Gdańsk,Lechia Gdańsk,pol.1,27675000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Leeds United,Leeds United,Leeds United,eng.1,197565000.0,154000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Legia Warszawa,Legia Warszawa,Legia Warszawa,pol.1,44175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Leicester City,Leicester City,Leicester City,eng.2,94280000.0,36000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Levante UD,Levante UD,Levante UD,esp.1,87675000.0,24100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Leyton Orient,Leyton Orient,Leyton Orient,eng.3,24050000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Libertad,Libertad,Libertad,División_Profesional,32700000.0,2400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lille OSC,Lille OSC,Lille OSC,fra.1,199700000.0,157600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Lincoln City,Lincoln City,Lincoln City,eng.3,19275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Liverpool,Liverpool,Liverpool,eng.1,1111875000.0,1093000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Livingston FC,Livingston FC,Livingston FC,sco.1,11350000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Los Angeles FC,Los Angeles FC,Los Angeles FC,usa.1,92410000.0,61200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Luton Town,Luton Town,Luton Town,eng.3,44870000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+MSV Duisburg,MSV Duisburg,MSV Duisburg,ger.3,19100000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Macarthur FC,Macarthur FC,Macarthur FC,aus.1,7915000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Manchester City,Manchester City,Manchester City,eng.1,1088625000.0,1072500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Manchester United,Manchester United,Manchester United,eng.1,562810000.0,545500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mansfield Town,Mansfield Town,Mansfield Town,eng.3,13655000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mantova,Mantova,Mantova,ita.2,31425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Medipol Başakşehir FK,Medipol Başakşehir FK,Medipol Başakşehir FK,tur.1,74429998.0,17500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Meizhou Hakka,Meizhou Hakka,Meizhou Hakka,sui.1,9090000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Melbourne City FC,Melbourne City FC,Melbourne City FC,aus.1,14985000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Melbourne Victory,Melbourne Victory,Melbourne Victory,aus.1,13240000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Metaloglobus București,Metaloglobus București,Metaloglobus București,rou.1,8525000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Middlesbrough,Middlesbrough,Middlesbrough,eng.2,59465000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Millwall FC,Millwall FC,Millwall FC,eng.2,52670000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Milton Keynes Dons,Milton Keynes Dons,Milton Keynes Dons,eng.4,15470000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Minnesota United FC,Minnesota United FC,Minnesota United FC,usa.1,39620000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mjällby AIF,Mjällby AIF,Mjällby AIF,swe.1,30720000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Modena,Modena,Modena,ita.2,33915000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mohammedan SC,Mohammedan SC,Mohammedan SC,sui.1,4745000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mohun Bagan Super Giant,Mohun Bagan Super Giant,Mohun Bagan Super Giant,sui.1,13360000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Molde FK,Molde FK,Molde FK,nor.1,34325000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Montpellier HSC,Montpellier HSC,Montpellier HSC,fra.2,45125000.0,3500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Monza,Monza,Monza,ita.2,72850000.0,29000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Moreirense FC,Moreirense FC,Moreirense FC,por.1,42220000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Motherwell FC,Motherwell FC,Motherwell FC,sco.1,22155000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Motor Lublin,Motor Lublin,Motor Lublin,pol.1,22400000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mumbai City FC,Mumbai City FC,Mumbai City FC,sui.1,6280000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Mushuc Runa,Mushuc Runa,Mushuc Runa,ita.1,14020000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Málaga CF,Málaga CF,Málaga CF,esp.2,40500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+NAC Breda,NAC Breda,NAC Breda,ned.1,30450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+NEC Nijmegen,NEC Nijmegen,NEC Nijmegen,ned.1,48500000.0,1900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+NEOM SC,NEOM SC,NEOM SC,bel.1,79530000.0,42300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Nacional Potosí,Nacional Potosí,Nacional Potosí,División_de_Fútbol_Profesional,10685000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Napoli,Napoli,Napoli,ita.1,520250000.0,503000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Nashville SC,Nashville SC,Nashville SC,usa.1,44960000.0,20600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+New England Revolution,New England Revolution,New England Revolution,usa.1,47250000.0,14000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+New York City FC,New York City FC,New York City FC,usa.1,35085000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+New York Red Bulls,New York Red Bulls,New York Red Bulls,usa.1,45620000.0,12900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Newcastle Jets,Newcastle Jets,Newcastle Jets,aus.1,13135000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Newcastle United,Newcastle United,Newcastle United,eng.1,586060000.0,570500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Newell's Old Boys,Newell's Old Boys,Newell's Old Boys,arg.1,37105000.0,4300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Newport County,Newport County,Newport County,eng.4,9595000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+NorthEast United,NorthEast United,NorthEast United,sui.1,9800000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Northampton Town,Northampton Town,Northampton Town,eng.3,13665000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Norwich City,Norwich City,Norwich City,eng.2,74175000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Nottingham Forest,Nottingham Forest,Nottingham Forest,eng.1,446800000.0,423500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Notts County,Notts County,Notts County,eng.4,14495000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+OGC Nice,OGC Nice,OGC Nice,fra.1,203975000.0,156000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Odense Boldklub,Odense Boldklub,Odense Boldklub,den.1,22710000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Odisha FC,Odisha FC,Odisha FC,sui.1,4155000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Oldham Athletic,Oldham Athletic,Oldham Athletic,eng.4,8200000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Olympiacos FC,Olympiacos FC,Olympiacos FC,sui.1,210800000.0,178400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Olympique Lyonnais,Olympique Lyonnais,Olympique Lyonnais,fra.1,192800000.0,149500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Olympique de Marseille,Olympique de Marseille,Olympique de Marseille,fra.1,400190000.0,381400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Once Caldas,Once Caldas,Once Caldas,Categoría_Primera_A,29160000.0,1900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Orlando City SC,Orlando City SC,Orlando City SC,usa.1,35215000.0,3600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Oud-Heverlee Leuven,Oud-Heverlee Leuven,Oud-Heverlee Leuven,bel.1,45050000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Oxford United,Oxford United,Oxford United,eng.2,41425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Oțelul Galați,Oțelul Galați,Oțelul Galați,rou.1,15085000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+PEC Zwolle,PEC Zwolle,PEC Zwolle,ned.1,34150000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Padova,Padova,Padova,ita.2,25000000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Palermo FC,Palermo FC,Palermo FC,ita.2,57809999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Palmeiras,Palmeiras,Palmeiras,bra.1,118300000.0,94300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Panathinaikos FC,Panathinaikos FC,Panathinaikos FC,sui.1,125225000.0,58800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Paris FC,Paris FC,Paris FC,fra.1,106960000.0,65900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Paris Saint-Germain,Paris Saint-Germain,Paris Saint-Germain,fra.1,1211650000.0,1207000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Parma,Parma,Parma,ita.1,110110000.0,30900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Pau FC,Pau FC,Pau FC,fra.2,19015000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Perth Glory,Perth Glory,Perth Glory,aus.1,11945000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Pescara,Pescara,Pescara,ita.2,33925000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Peterborough United,Peterborough United,Peterborough United,eng.3,24530000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Peñarol,Peñarol,Peñarol,Primera_División,56600000.0,18500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Philadelphia Union,Philadelphia Union,Philadelphia Union,usa.1,35395000.0,5950000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Piast Gliwice,Piast Gliwice,Piast Gliwice,pol.1,17790000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Pisa,Pisa,Pisa,ita.1,66260000.0,19200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Platense,Platense,Platense,arg.1,43835000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Plymouth Argyle,Plymouth Argyle,Plymouth Argyle,eng.3,24930000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Pogoń Szczecin,Pogoń Szczecin,Pogoń Szczecin,pol.1,27400000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Pohang Steelers,Pohang Steelers,Pohang Steelers,kor.1,24940000.0,4800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Port Vale,Port Vale,Port Vale,eng.3,17520000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Portland Timbers,Portland Timbers,Portland Timbers,usa.1,48639999.0,13500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Portsmouth,Portsmouth,Portsmouth,eng.2,48140000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Preston North End,Preston North End,Preston North End,eng.2,43975000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Punjab FC,Punjab FC,Punjab FC,sui.1,2255000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Qarabağ FK,Qarabağ FK,Qarabağ FK,Premyer_Liqa,31950000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Qingdao Hainiu FC,Qingdao Hainiu FC,Qingdao Hainiu FC,sui.1,9209000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Qingdao West Coast FC,Qingdao West Coast FC,Qingdao West Coast FC,sui.1,14290000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Queens Park Rangers,Queens Park Rangers,Queens Park Rangers,eng.2,56675000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RAAL La Louvière,RAAL La Louvière,RAAL La Louvière,bel.1,23935000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RB Leipzig,RB Leipzig,RB Leipzig,ger.1,363475000.0,326900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RC Celta,RC Celta,RC Celta,esp.1,226600000.0,169500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RC Deportivo de La Coruña,RC Deportivo de La Coruña,RC Deportivo de La Coruña,esp.2,56374999.0,17000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RC Lens,RC Lens,RC Lens,fra.1,98149999.0,41700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RC Strasbourg Alsace,RC Strasbourg Alsace,RC Strasbourg Alsace,fra.1,201950000.0,128000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RCD Espanyol,RCD Espanyol,RCD Espanyol,esp.1,135800000.0,79500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RCD Mallorca,RCD Mallorca,RCD Mallorca,esp.1,199985000.0,162800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+RSC Anderlecht,RSC Anderlecht,RSC Anderlecht,bel.1,87905000.0,13500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Racing Club,Racing Club,Racing Club,arg.1,108000000.0,49700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Racing Club de Montevideo,Racing Club de Montevideo,Racing Club de Montevideo,Primera_División,19500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Racing Santander,Racing Santander,Racing Santander,esp.2,51300000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Radomiak Radom,Radomiak Radom,Radomiak Radom,pol.1,23035000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Raków Częstochowa,Raków Częstochowa,Raków Częstochowa,pol.1,46250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Randers FC,Randers FC,Randers FC,den.1,30075000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rangers FC,Rangers FC,Rangers FC,sco.1,105400000.0,31800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rapid Bucuresti,Rapid Bucuresti,Rapid Bucuresti,rou.1,36260000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rayo Vallecano,Rayo Vallecano,Rayo Vallecano,esp.1,188875000.0,163000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Reading FC,Reading FC,Reading FC,eng.3,26850000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Betis Balompié,Real Betis Balompié,Real Betis Balompié,esp.1,329450000.0,309000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Madrid,Real Madrid,Real Madrid,esp.1,1424100000.0,1417000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Oviedo,Real Oviedo,Real Oviedo,esp.1,82150000.0,25700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Salt Lake,Real Salt Lake,Real Salt Lake,usa.1,34394999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Sociedad,Real Sociedad,Real Sociedad,esp.1,362000000.0,305500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Sociedad de Fútbol B,Real Sociedad de Fútbol B,Real Sociedad de Fútbol B,esp.2,24875000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Sporting de Gijón,Real Sporting de Gijón,Real Sporting de Gijón,esp.2,48500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Valladolid CF,Real Valladolid CF,Real Valladolid CF,esp.2,55900000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Real Zaragoza,Real Zaragoza,Real Zaragoza,esp.2,54300000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Red Star FC,Red Star FC,Red Star FC,fra.2,24000000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Reggiana,Reggiana,Reggiana,ita.2,28575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rio Ave FC,Rio Ave FC,Rio Ave FC,por.1,61300000.0,7000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+River Plate,River Plate,River Plate,arg.1,177650000.0,127200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rodez Aveyron Football,Rodez Aveyron Football,Rodez Aveyron Football,fra.2,24140000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Roma,Roma,Roma,ita.1,453100000.0,412000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rosario Central,Rosario Central,Rosario Central,arg.1,65120000.0,22400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rosenborg BK,Rosenborg BK,Rosenborg BK,nor.1,34650000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rot-Weiss Essen,Rot-Weiss Essen,Rot-Weiss Essen,ger.3,20120000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Rotherham United,Rotherham United,Rotherham United,eng.3,20740000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Royal Antwerp FC,Royal Antwerp FC,Royal Antwerp FC,bel.1,56375000.0,9000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Royal Charleroi Sporting Club,Royal Charleroi Sporting Club,Royal Charleroi Sporting Club,bel.1,40960000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Freiburg,SC Freiburg,SC Freiburg,ger.1,155350000.0,98300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Heerenveen,SC Heerenveen,SC Heerenveen,ned.1,37650000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Paderborn 07,SC Paderborn 07,SC Paderborn 07,ger.2,36805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Preußen Münster,SC Preußen Münster,SC Preußen Münster,ger.2,34225000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Rheindorf Altach,SC Rheindorf Altach,SC Rheindorf Altach,ger.1,20395000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SC Verl,SC Verl,SC Verl,ger.3,18870000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SD Eibar,SD Eibar,SD Eibar,esp.2,38600000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SD Huesca,SD Huesca,SD Huesca,esp.2,30775000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SK Brann,SK Brann,SK Brann,nor.1,35515000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SK Rapid,SK Rapid,SK Rapid,ger.1,54750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SK Slavia Praha,SK Slavia Praha,SK Slavia Praha,První_liga,135025000.0,81400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SK Sturm Graz,SK Sturm Graz,SK Sturm Graz,ger.1,45100000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SL Benfica,SL Benfica,SL Benfica,por.1,388800000.0,342000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SS Juve Stabia,SS Juve Stabia,SS Juve Stabia,ita.2,33270000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SSC Bari,SSC Bari,SSC Bari,ita.2,37545000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SSV Jahn Regensburg,SSV Jahn Regensburg,SSV Jahn Regensburg,ger.3,19850000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SSV Ulm 1846,SSV Ulm 1846,SSV Ulm 1846,ger.3,20425000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Darmstadt 98,SV Darmstadt 98,SV Darmstadt 98,ger.2,39575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Elversberg,SV Elversberg,SV Elversberg,ger.2,32860000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Ried,SV Ried,SV Ried,ger.1,18805000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Waldhof Mannheim,SV Waldhof Mannheim,SV Waldhof Mannheim,ger.3,16975000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Wehen Wiesbaden,SV Wehen Wiesbaden,SV Wehen Wiesbaden,ger.3,23855000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Werder Bremen,SV Werder Bremen,SV Werder Bremen,ger.1,194520000.0,146100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SV Zulte Waregem,SV Zulte Waregem,SV Zulte Waregem,bel.1,28265000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Salford City,Salford City,Salford City,eng.4,12925000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sampdoria,Sampdoria,Sampdoria,ita.2,48490000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Samsunspor,Samsunspor,Samsunspor,tur.1,60115000.0,7000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+San Antonio Bulo Bulo,San Antonio Bulo Bulo,San Antonio Bulo Bulo,División_de_Fútbol_Profesional,15820000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+San Diego FC,San Diego FC,San Diego FC,usa.1,54635000.0,25000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+San Jose Earthquakes,San Jose Earthquakes,San Jose Earthquakes,usa.1,41895000.0,19500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+San Lorenzo de Almagro,San Lorenzo de Almagro,San Lorenzo de Almagro,arg.1,39849999.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sandefjord Fotball,Sandefjord Fotball,Sandefjord Fotball,nor.1,21925000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Santa Clara,Santa Clara,Santa Clara,por.1,50450000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sarpsborg 08 FF,Sarpsborg 08 FF,Sarpsborg 08 FF,nor.1,27075000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sassuolo,Sassuolo,Sassuolo,ita.1,138325000.0,68600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Seattle Sounders FC,Seattle Sounders FC,Seattle Sounders FC,usa.1,48445000.0,13700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Servette FC,Servette FC,Servette FC,sui.1,33915000.0,9100000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sevilla FC,Sevilla FC,Sevilla FC,esp.1,169299998.0,127400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shakhtar Donetsk,Shakhtar Donetsk,Shakhtar Donetsk,eng.1,104225000.0,29500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shamrock Rovers,Shamrock Rovers,Shamrock Rovers,Premier_Division,9310000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shandong Taishan,Shandong Taishan,Shandong Taishan,sui.1,22840000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shanghai Port,Shanghai Port,Shanghai Port,sui.1,23350000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shanghai Shenhua,Shanghai Shenhua,Shanghai Shenhua,sui.1,26670000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sheffield United,Sheffield United,Sheffield United,eng.2,89900000.0,19500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sheffield Wednesday,Sheffield Wednesday,Sheffield Wednesday,eng.2,27625000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shelbourne FC,Shelbourne FC,Shelbourne FC,Premier_Division,10610000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shenzhen Peng City,Shenzhen Peng City,Shenzhen Peng City,sui.1,10185000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Shrewsbury Town,Shrewsbury Town,Shrewsbury Town,eng.4,9555000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Silkeborg IF,Silkeborg IF,Silkeborg IF,den.1,28915000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sint-Truidense VV,Sint-Truidense VV,Sint-Truidense VV,bel.1,27220000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sligo Rovers,Sligo Rovers,Sligo Rovers,Premier_Division,6745000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Southampton,Southampton,Southampton,eng.2,97330000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+SpVgg Greuther Fürth,SpVgg Greuther Fürth,SpVgg Greuther Fürth,ger.2,32600000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sparta Praha,Sparta Praha,Sparta Praha,První_liga,90655000.0,39000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sparta Rotterdam,Sparta Rotterdam,Sparta Rotterdam,ned.1,33575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Spezia,Spezia,Spezia,ita.2,37400000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sporting Club Bastia,Sporting Club Bastia,Sporting Club Bastia,fra.2,24200000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sporting Clube de Braga,Sporting Clube de Braga,Sporting Clube de Braga,por.1,176324999.0,109800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sporting Cristal,Sporting Cristal,Sporting Cristal,Liga_1,32750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sporting Kansas City,Sporting Kansas City,Sporting Kansas City,usa.1,34950000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sportivo Luqueño,Sportivo Luqueño,Sportivo Luqueño,División_Profesional,16610000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+St Patrick's Athletic FC,St Patrick's Athletic FC,St Patrick's Athletic FC,Premier_Division,12360000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+St. Louis CITY SC,St. Louis CITY SC,St. Louis CITY SC,usa.1,36355000.0,7300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+St. Mirren,St. Mirren,St. Mirren,sco.1,13050000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stade Brestois 29,Stade Brestois 29,Stade Brestois 29,fra.1,105224999.0,56400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stade Lavallois Mayenne FC,Stade Lavallois Mayenne FC,Stade Lavallois Mayenne FC,fra.2,19500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stade Rennais FC,Stade Rennais FC,Stade Rennais FC,fra.1,165800000.0,139300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stade de Reims,Stade de Reims,Stade de Reims,fra.2,62700000.0,14700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Standard de Liège,Standard de Liège,Standard de Liège,bel.1,43000000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stevenage,Stevenage,Stevenage,eng.3,19995000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stockport County,Stockport County,Stockport County,eng.3,24250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Stoke City,Stoke City,Stoke City,eng.2,48375000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Strømsgodset IF,Strømsgodset IF,Strømsgodset IF,nor.1,19815000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sunderland,Sunderland,Sunderland,eng.1,246614998.0,167599999.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Suwon FC,Suwon FC,Suwon FC,kor.1,15565000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Swansea City,Swansea City,Swansea City,eng.2,56975000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Swindon Town,Swindon Town,Swindon Town,eng.4,10420000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sydney FC,Sydney FC,Sydney FC,aus.1,13320000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+São Paulo,São Paulo,São Paulo,bra.1,59399998.0,18900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Sønderjyske Fodbold,Sønderjyske Fodbold,Sønderjyske Fodbold,den.1,19995000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Südtirol,Südtirol,Südtirol,ita.2,24415000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,ger.1,138800000.0,67400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+TSG 1899 Hoffenheim II,TSG 1899 Hoffenheim II,TSG 1899 Hoffenheim II,ger.3,13275000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+TSV 1860 München,TSV 1860 München,TSV 1860 München,ger.3,20475000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+TSV Hartberg,TSV Hartberg,TSV Hartberg,ger.1,22560000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+TSV Havelse,TSV Havelse,TSV Havelse,ger.3,12820000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Talleres,Talleres,Talleres,arg.1,61930000.0,19800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Telstar,Telstar,Telstar,ned.1,19315000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Tianjin Jinmen Tiger,Tianjin Jinmen Tiger,Tianjin Jinmen Tiger,sui.1,17185000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Tigre,Tigre,Tigre,arg.1,45875000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Torino,Torino,Torino,ita.1,168325000.0,112500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Toronto FC,Toronto FC,Toronto FC,usa.1,28140000.0,7500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Tottenham Hotspur,Tottenham Hotspur,Tottenham Hotspur,eng.1,657800000.0,650600000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Toulouse FC,Toulouse FC,Toulouse FC,fra.1,105725000.0,49000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Tranmere Rovers,Tranmere Rovers,Tranmere Rovers,eng.4,8195000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Tromsø IL,Tromsø IL,Tromsø IL,nor.1,20620000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+UD Almería,UD Almería,UD Almería,esp.2,67675000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+UD Las Palmas,UD Las Palmas,UD Las Palmas,esp.2,85790000.0,23500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+US Boulogne Cote d'Opale,US Boulogne Cote d'Opale,US Boulogne Cote d'Opale,fra.2,11860000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+USL Dunkerque,USL Dunkerque,USL Dunkerque,fra.2,22250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+UTA Arad,UTA Arad,UTA Arad,rou.1,14770000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Udinese,Udinese,Udinese,ita.1,101155000.0,38200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Ulsan HD FC,Ulsan HD FC,Ulsan HD FC,kor.1,28795000.0,1800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Unirea Slobozia,Unirea Slobozia,Unirea Slobozia,rou.1,11180000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+United Tigers SC,United Tigers SC,United Tigers SC,sui.1,1175000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universidad Católica,Universidad Católica,Universidad Católica,Primera_Division,25665000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universidad Católica del Ecuador,Universidad Católica del Ecuador,Universidad Católica del Ecuador,ita.1,18575000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universidad de Chile,Universidad de Chile,Universidad de Chile,Primera_Division,37705000.0,4400000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universitario de Deportes,Universitario de Deportes,Universitario de Deportes,Liga_1,29410000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universitatea Cluj,Universitatea Cluj,Universitatea Cluj,rou.1,22950000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Universitatea Craiova,Universitatea Craiova,Universitatea Craiova,rou.1,31920000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Unión Española,Unión Española,Unión Española,Primera_Division,23250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Valencia CF,Valencia CF,Valencia CF,esp.1,248200000.0,228000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vancouver Whitecaps FC,Vancouver Whitecaps FC,Vancouver Whitecaps FC,usa.1,59875000.0,28000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vasco da Gama,Vasco da Gama,Vasco da Gama,bra.1,31125000.0,6500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vejle Boldklub,Vejle Boldklub,Vejle Boldklub,den.1,27625000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Venezia,Venezia,Venezia,ita.2,59520000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+VfB Stuttgart,VfB Stuttgart,VfB Stuttgart,ger.1,282300000.0,238500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+VfB Stuttgart II,VfB Stuttgart II,VfB Stuttgart II,ger.3,16945000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+VfL Bochum 1848,VfL Bochum 1848,VfL Bochum 1848,ger.2,55224999.0,10200000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+VfL Osnabrück,VfL Osnabrück,VfL Osnabrück,ger.3,18340000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+VfL Wolfsburg,VfL Wolfsburg,VfL Wolfsburg,ger.1,256535000.0,218700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Viborg FF,Viborg FF,Viborg FF,den.1,26750000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Viking FK,Viking FK,Viking FK,nor.1,42950000.0,6000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Viktoria Köln,Viktoria Köln,Viktoria Köln,ger.3,17525000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Viktoria Plzeň,Viktoria Plzeň,Viktoria Plzeň,První_liga,67850000.0,20800000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Villarreal CF,Villarreal CF,Villarreal CF,esp.1,357300000.0,307900000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Virtus Entella,Virtus Entella,Virtus Entella,ita.2,26050000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vitória,Vitória,Vitória,bra.1,27925000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vitória SC,Vitória SC,Vitória SC,por.1,42400000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vålerenga Fotball,Vålerenga Fotball,Vålerenga Fotball,nor.1,21250000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Vélez Sarsfield,Vélez Sarsfield,Vélez Sarsfield,arg.1,87800000.0,17300000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+WSG Tirol,WSG Tirol,WSG Tirol,ger.1,22130000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Walsall,Walsall,Walsall,eng.4,13680000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Waterford FC,Waterford FC,Waterford FC,Premier_Division,6445000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Watford,Watford,Watford,eng.2,57280000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wellington Phoenix,Wellington Phoenix,Wellington Phoenix,aus.1,9125000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+West Bromwich Albion,West Bromwich Albion,West Bromwich Albion,eng.2,57155000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+West Ham United,West Ham United,West Ham United,eng.1,262525000.0,239125000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Western Sydney Wanderers,Western Sydney Wanderers,Western Sydney Wanderers,aus.1,14670000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Western United,Western United,Western United,aus.1,4265000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Widzew Łódź,Widzew Łódź,Widzew Łódź,pol.1,38340000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wigan Athletic,Wigan Athletic,Wigan Athletic,eng.3,24235000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wisła Płock,Wisła Płock,Wisła Płock,pol.1,15680000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wolfsberger AC,Wolfsberger AC,Wolfsberger AC,ger.1,34500000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wolverhampton Wanderers,Wolverhampton Wanderers,Wolverhampton Wanderers,eng.1,228125000.0,181700000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wrexham,Wrexham,Wrexham,eng.2,54700000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wuhan Three Towns,Wuhan Three Towns,Wuhan Three Towns,sui.1,11850000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Wycombe Wanderers,Wycombe Wanderers,Wycombe Wanderers,eng.3,27090000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Yunnan Yukun,Yunnan Yukun,Yunnan Yukun,sui.1,11625000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Zagłębie Lubin,Zagłębie Lubin,Zagłębie Lubin,pol.1,21680000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Zhejiang FC,Zhejiang FC,Zhejiang FC,sui.1,15650000.0,5500000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Çaykur Rizespor,Çaykur Rizespor,Çaykur Rizespor,tur.1,53799999.0,9000000.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Östers IF,Östers IF,Östers IF,swe.1,15900000.0,0.0,EUR,fc26_eafchub_player_aggregate_p29_336,2026-08-13
+Atlanta United FC,Atlanta United FC,Atlanta United FC,usa.1,51579999.0,20000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+D.C. United,D.C. United,D.C. United,usa.1,26645000.0,2700000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+LAFC,LAFC,LAFC,usa.1,92410000.0,61200000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Red Bull New York,Red Bull New York,Red Bull New York,usa.1,45620000.0,12900000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Inter Miami CF,Inter Miami CF,Inter Miami CF,usa.1,99614999.0,69699999.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Minnesota United,Minnesota United,Minnesota United,usa.1,39620000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Gimcheon Sangmu,Gimcheon Sangmu,Gimcheon Sangmu,kor.1,30225000.0,6000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Jeju SK FC,Jeju SK FC,Jeju SK FC,kor.1,16240000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Ulsan HD,Ulsan HD,Ulsan HD,kor.1,28795000.0,1800000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Ulsan Hyundai,Ulsan Hyundai,Ulsan Hyundai,kor.1,28795000.0,1800000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Servette,Servette,Servette,sui.1,33915000.0,9100000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+FC Zurich,FC Zurich,FC Zurich,sui.1,30290000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Club Brugge KV,Club Brugge KV,Club Brugge KV,bel.1,166925000.0,101900000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Ajax Amsterdam,Ajax Amsterdam,Ajax Amsterdam,ned.1,196250000.0,136625000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Anderlecht,Anderlecht,Anderlecht,bel.1,87905000.0,13500000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Besiktas,Besiktas,Besiktas,tur.1,180999998.0,142900000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Benfica,Benfica,Benfica,por.1,388800000.0,342000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Fenerbahce,Fenerbahce,Fenerbahce,tur.1,335000000.0,312000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Feyenoord,Feyenoord,Feyenoord,ned.1,204299999.0,130300000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+FC Twente,FC Twente,FC Twente,ned.1,61265000.0,2400000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+AZ Alkmaar,AZ Alkmaar,AZ Alkmaar,ned.1,123090000.0,36500000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+PSV,PSV,PSV,ned.1,252000000.0,199000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Galatasaray,Galatasaray,Galatasaray,tur.1,425200000.0,412300000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Trabzonspor,Trabzonspor,Trabzonspor,tur.1,102775000.0,52600000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Slavia Prague,Slavia Prague,Slavia Prague,cze.1,135025000.0,81400000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Sparta Prague,Sparta Prague,Sparta Prague,cze.1,90655000.0,39000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+CFR Cluj-Napoca,CFR Cluj-Napoca,CFR Cluj-Napoca,rou.1,43120000.0,4600000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Steaua Bucharest,Steaua Bucharest,Steaua Bucharest,rou.1,40849999.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Hajduk Split,Hajduk Split,Hajduk Split,cro.1,58350000.0,15000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Dinamo Zagreb,Dinamo Zagreb,Dinamo Zagreb,cro.1,85510000.0,28500000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Porto,Porto,Porto,por.1,270900000.0,240000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Basel,Basel,Basel,sui.1,73810000.0,21500000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Young Boys,Young Boys,Young Boys,sui.1,54540000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Celtic,Celtic,Celtic,sco.1,176200000.0,117900000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Rangers,Rangers,Rangers,sco.1,105400000.0,31800000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Malmö FF,Malmö FF,Malmö FF,swe.1,39735000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+AIK,AIK,AIK,swe.1,26475000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Djurgården,Djurgården,Djurgården,swe.1,29450000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Rosenborg,Rosenborg,Rosenborg,nor.1,34650000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Molde,Molde,Molde,nor.1,34325000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Bodø/Glimt,Bodø/Glimt,Bodø/Glimt,nor.1,61200000.0,12000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Heart of Midlothian,Heart of Midlothian,Heart of Midlothian,sco.1,36485000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Lech Poznan,Lech Poznan,Lech Poznan,pol.1,48975000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Jagiellonia Bialystok,Jagiellonia Bialystok,Jagiellonia Bialystok,pol.1,37780000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Gornik Zabrze,Gornik Zabrze,Gornik Zabrze,pol.1,24965000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Raków Czestochowa,Raków Czestochowa,Raków Czestochowa,pol.1,46250000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Hammarby IF,Hammarby IF,Hammarby IF,swe.1,34715000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Austria Vienna,Austria Vienna,Austria Vienna,ger.1,26820000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Ferencvaros,Ferencvaros,Ferencvaros,hun.1,64855000.0,13900000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+PAOK,PAOK,PAOK,sui.1,111000000.0,67500000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Union Saint-Gilloise,Union Saint-Gilloise,Union Saint-Gilloise,bel.1,86330000.0,44000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Royal Antwerp,Royal Antwerp,Royal Antwerp,bel.1,56375000.0,9000000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Motherwell,Motherwell,Motherwell,sco.1,22155000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Shelbourne,Shelbourne,Shelbourne,Premier_Division,10610000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Braga,Braga,Braga,por.1,176324999.0,109800000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+St. Gallen,St. Gallen,St. Gallen,sui.1,31265000.0,0.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Olympiacos,Olympiacos,Olympiacos,sui.1,210800000.0,178400000.0,EUR,fc26_eafchub_alias_p29_336,2026-08-13
+Kashima Antlers,Kashima Antlers,Kashima Antlers,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Kawasaki Frontale,Kawasaki Frontale,Kawasaki Frontale,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Yokohama F. Marinos,Yokohama F. Marinos,Yokohama F. Marinos,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Vissel Kobe,Vissel Kobe,Vissel Kobe,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Urawa Red Diamonds,Urawa Red Diamonds,Urawa Red Diamonds,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Sanfrecce Hiroshima,Sanfrecce Hiroshima,Sanfrecce Hiroshima,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Cerezo Osaka,Cerezo Osaka,Cerezo Osaka,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Gamba Osaka,Gamba Osaka,Gamba Osaka,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Nagoya Grampus,Nagoya Grampus,Nagoya Grampus,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Tokyo,FC Tokyo,FC Tokyo,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Shimizu S-Pulse,Shimizu S-Pulse,Shimizu S-Pulse,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Kashiwa Reysol,Kashiwa Reysol,Kashiwa Reysol,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Kyoto Sanga,Kyoto Sanga,Kyoto Sanga,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Avispa Fukuoka,Avispa Fukuoka,Avispa Fukuoka,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Tokyo Verdy 1969,Tokyo Verdy 1969,Tokyo Verdy 1969,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Machida Zelvia,Machida Zelvia,Machida Zelvia,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Fagiano Okayama,Fagiano Okayama,Fagiano Okayama,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+V-Varen Nagasaki,V-Varen Nagasaki,V-Varen Nagasaki,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Mito Hollyhock,Mito Hollyhock,Mito Hollyhock,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+JEF United Ichihara-Chiba,JEF United Ichihara-Chiba,JEF United Ichihara-Chiba,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC TOKYO FC TOKYO,FC TOKYO FC TOKYO,FC TOKYO FC TOKYO,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Red Star Belgrade,Red Star Belgrade,Red Star Belgrade,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+CSKA Sofia,CSKA Sofia,CSKA Sofia,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Rapid Vienna,Rapid Vienna,Rapid Vienna,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+RB Salzburg,RB Salzburg,RB Salzburg,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+F.C. København,F.C. København,F.C. København,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Hradec Králové,FC Hradec Králové,FC Hradec Králové,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Jablonec,Jablonec,Jablonec,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Debrecen,Debrecen,Debrecen,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Györi ETO FC,Györi ETO FC,Györi ETO FC,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Flora,Flora,Flora,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Paide Linnameeskond,Paide Linnameeskond,Paide Linnameeskond,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Ilves,FC Ilves,FC Ilves,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Inter Turku,FC Inter Turku,FC Inter Turku,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+KuPS Kuopio,KuPS Kuopio,KuPS Kuopio,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+KI Klaksvik,KI Klaksvik,KI Klaksvik,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+NSI Runavik,NSI Runavik,NSI Runavik,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Lincoln Red Imps,Lincoln Red Imps,Lincoln Red Imps,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Bohemians,Bohemians,Bohemians,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Valur Reykjavik,Valur Reykjavik,Valur Reykjavik,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Vikingur Reykjavik,Vikingur Reykjavik,Vikingur Reykjavik,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Beitar Jerusalem,Beitar Jerusalem,Beitar Jerusalem,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Hapoel Tel Aviv,Hapoel Tel Aviv,Hapoel Tel Aviv,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Maccabi Tel-Aviv,Maccabi Tel-Aviv,Maccabi Tel-Aviv,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Tobol Kostanay,Tobol Kostanay,Tobol Kostanay,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FK Qarabag,FK Qarabag,FK Qarabag,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Dinamo City,Dinamo City,Dinamo City,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Egnatia,Egnatia,Egnatia,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Drita Gjilan,Drita Gjilan,Drita Gjilan,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Inter D'Escaldes,Inter D'Escaldes,Inter D'Escaldes,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Noah,FC Noah,FC Noah,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+ML Vitebsk,ML Vitebsk,ML Vitebsk,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Dinamo Minsk,Dinamo Minsk,Dinamo Minsk,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Borac Banja Luka,Borac Banja Luka,Borac Banja Luka,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Rijeka,Rijeka,Rijeka,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Omonia Nicosia,Omonia Nicosia,Omonia Nicosia,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Pafos,Pafos,Pafos,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Partizan Belgrade,Partizan Belgrade,Partizan Belgrade,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Dunajska Streda,Dunajska Streda,Dunajska Streda,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FC Vaduz,FC Vaduz,FC Vaduz,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Tre Fiori,Tre Fiori,Tre Fiori,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Riga FC,Riga FC,Riga FC,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Rigas Futbola Skola,Rigas Futbola Skola,Rigas Futbola Skola,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+FK Auda,FK Auda,FK Auda,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+CSU Craiova,CSU Craiova,CSU Craiova,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Tromso,Tromso,Tromso,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+KF Shkëndija,KF Shkëndija,KF Shkëndija,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Sheriff Tiraspol,Sheriff Tiraspol,Sheriff Tiraspol,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Club Brugge,Club Brugge,Club Brugge,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13
+Sporting CP,Sporting CP,Sporting CP,unknown,0.0,0.0,EUR,no_fc26_data_p29_336,2026-08-13

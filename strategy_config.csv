@@ -1,0 +1,7 @@
+key,value,updated_at
+kelly_fraction,0.125,2026-07-27 05:41:57
+min_kelly_threshold,0.05,2026-07-27 05:41:57
+max_bet_pct,0.02,2026-07-27 05:41:57
+max_daily_loss_pct,0.10,2026-07-27 05:41:57
+value_brier_baseline,0.6588,2026-07-27 05:41:57
+value_brier_v18,0.5702,2026-07-27 05:41:57
