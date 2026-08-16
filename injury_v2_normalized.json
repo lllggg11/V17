@@ -1,0 +1,4644 @@
+[
+  {
+    "team": "Liverpool",
+    "league_slug": "uefa.champions",
+    "injured_count": 8,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Vítezslav Jaros",
+        "team_name": "Liverpool",
+        "position": "keepers",
+        "injury_id": "14",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Joseph Gomez",
+        "team_name": "Liverpool",
+        "position": "defenders",
+        "injury_id": "115",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jérémy Jacquet",
+        "team_name": "Liverpool",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Conor Bradley",
+        "team_name": "Liverpool",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Giovanni Leoni",
+        "team_name": "Liverpool",
+        "position": "defenders",
+        "injury_id": "76",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Curtis Jones",
+        "team_name": "Liverpool",
+        "position": "midfielders",
+        "injury_id": "31",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Stefan Bajcetic",
+        "team_name": "Liverpool",
+        "position": "midfielders",
+        "injury_id": "42",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Hugo Ekitiké",
+        "team_name": "Liverpool",
+        "position": "attackers",
+        "injury_id": "73",
+        "expected_return": "Early January 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "St. Gallen",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 8,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Cyrill May",
+        "team_name": "St. Gallen",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Colin Kleine-Bekel",
+        "team_name": "St. Gallen",
+        "position": "defenders",
+        "injury_id": "74",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Stephan Ambrosius",
+        "team_name": "St. Gallen",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Tom Gaal",
+        "team_name": "St. Gallen",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Behar Neziri",
+        "team_name": "St. Gallen",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Nino Weibel",
+        "team_name": "St. Gallen",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Malamine Efekele",
+        "team_name": "St. Gallen",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Nevio Scherrer",
+        "team_name": "St. Gallen",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Manchester United",
+    "league_slug": "eng.1",
+    "injured_count": 8,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Karl Darlow",
+        "team_name": "Manchester United",
+        "position": "keepers",
+        "injury_id": "137",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Tom Heaton",
+        "team_name": "Manchester United",
+        "position": "keepers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Matthijs de Ligt",
+        "team_name": "Manchester United",
+        "position": "defenders",
+        "injury_id": "45",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lisandro Martínez",
+        "team_name": "Manchester United",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mason Mount",
+        "team_name": "Manchester United",
+        "position": "midfielders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Manuel Ugarte",
+        "team_name": "Manchester United",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early April 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Kobbie Mainoo",
+        "team_name": "Manchester United",
+        "position": "midfielders",
+        "injury_id": "45",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Benjamin Sesko",
+        "team_name": "Manchester United",
+        "position": "attackers",
+        "injury_id": "74",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Salzburg",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 7,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Stefan Lainer",
+        "team_name": "Salzburg",
+        "position": "defenders",
+        "injury_id": "116",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Anrie Chase",
+        "team_name": "Salzburg",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Soumaïla Diabaté",
+        "team_name": "Salzburg",
+        "position": "midfielders",
+        "injury_id": "87",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Justin Omoregie",
+        "team_name": "Salzburg",
+        "position": "midfielders",
+        "injury_id": "69",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Edmund Baidoo",
+        "team_name": "Salzburg",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Gaoussou Diakite",
+        "team_name": "Salzburg",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Enrique Aguilar",
+        "team_name": "Salzburg",
+        "position": "attackers",
+        "injury_id": "15",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Utrecht",
+    "league_slug": "ned.1",
+    "injured_count": 7,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Vasilios Barkas",
+        "team_name": "FC Utrecht",
+        "position": "keepers",
+        "injury_id": "92",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Matisse Didden",
+        "team_name": "FC Utrecht",
+        "position": "defenders",
+        "injury_id": "92",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Neville Ogidi Nwankwo",
+        "team_name": "FC Utrecht",
+        "position": "defenders",
+        "injury_id": "92",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Victor Jensen",
+        "team_name": "FC Utrecht",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Alonzo Engwanda",
+        "team_name": "FC Utrecht",
+        "position": "midfielders",
+        "injury_id": "42",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Miliano Jonathans",
+        "team_name": "FC Utrecht",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Noah Ohio",
+        "team_name": "FC Utrecht",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Early January 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "league_slug": "uefa.champions",
+    "injured_count": 6,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Xavi Simons",
+        "team_name": "Tottenham Hotspur",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early February 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "James Maddison",
+        "team_name": "Tottenham Hotspur",
+        "position": "midfielders",
+        "injury_id": "31",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Dejan Kulusevski",
+        "team_name": "Tottenham Hotspur",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Dominic Solanke",
+        "team_name": "Tottenham Hotspur",
+        "position": "attackers",
+        "injury_id": "30",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mohammed Kudus",
+        "team_name": "Tottenham Hotspur",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Wilson Odobert",
+        "team_name": "Tottenham Hotspur",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Early November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Chelsea",
+    "league_slug": "uefa.champions",
+    "injured_count": 6,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Levi Colwill",
+        "team_name": "Chelsea",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mamadou Sarr",
+        "team_name": "Chelsea",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Aaron Anselmino",
+        "team_name": "Chelsea",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Caleb Wiley",
+        "team_name": "Chelsea",
+        "position": "midfielders",
+        "injury_id": "47",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jordan Henderson",
+        "team_name": "Chelsea",
+        "position": "midfielders",
+        "injury_id": "34",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Emanuel Emegha",
+        "team_name": "Chelsea",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "AFC Bournemouth",
+    "league_slug": "eng.1",
+    "injured_count": 6,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Julián Araujo",
+        "team_name": "AFC Bournemouth",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Mid October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Veljko Milosavljevic",
+        "team_name": "AFC Bournemouth",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Tyler Adams",
+        "team_name": "AFC Bournemouth",
+        "position": "midfielders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Junior Kroupi",
+        "team_name": "AFC Bournemouth",
+        "position": "midfielders",
+        "injury_id": "21",
+        "expected_return": "Late October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "David Brooks",
+        "team_name": "AFC Bournemouth",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Amine Adli",
+        "team_name": "AFC Bournemouth",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 6,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Carlos Baleba",
+        "team_name": "Brighton & Hove Albion",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Matthew O'Riley",
+        "team_name": "Brighton & Hove Albion",
+        "position": "midfielders",
+        "injury_id": "92",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Stefanos Tzimas",
+        "team_name": "Brighton & Hove Albion",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Yankuba Minteh",
+        "team_name": "Brighton & Hove Albion",
+        "position": "attackers",
+        "injury_id": "74",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Kaoru Mitoma",
+        "team_name": "Brighton & Hove Albion",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Evan Ferguson",
+        "team_name": "Brighton & Hove Albion",
+        "position": "attackers",
+        "injury_id": "30",
+        "expected_return": "Early October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sparta Prague",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 6,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jakub Martinec",
+        "team_name": "Sparta Prague",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Emmanuel Uchenna",
+        "team_name": "Sparta Prague",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Magnus Kofod Andersen",
+        "team_name": "Sparta Prague",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Sivert Heggheim Mannsverk",
+        "team_name": "Sparta Prague",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Patrik Vydra",
+        "team_name": "Sparta Prague",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Ondrej Penxa",
+        "team_name": "Sparta Prague",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Newcastle United",
+    "league_slug": "uefa.champions",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Lewis Hall",
+        "team_name": "Newcastle United",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Fabian Schär",
+        "team_name": "Newcastle United",
+        "position": "defenders",
+        "injury_id": "47",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Valentino Livramento",
+        "team_name": "Newcastle United",
+        "position": "defenders",
+        "injury_id": "101",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lewis Miley",
+        "team_name": "Newcastle United",
+        "position": "midfielders",
+        "injury_id": "74",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Anthony Elanga",
+        "team_name": "Newcastle United",
+        "position": "attackers",
+        "injury_id": "74",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Ajax",
+    "league_slug": "",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ahmetcan Kaplan",
+        "team_name": "Ajax",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Daley Blind",
+        "team_name": "Ajax",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Josip Sutalo",
+        "team_name": "Ajax",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Amourricho van Axel Dongen",
+        "team_name": "Ajax",
+        "position": "attackers",
+        "injury_id": "69",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Rayane Bounida",
+        "team_name": "Ajax",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Falkirk",
+    "league_slug": "uefa.champions",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Thomas Lang",
+        "team_name": "Falkirk",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Keelan Adams",
+        "team_name": "Falkirk",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Scott Tanser",
+        "team_name": "Falkirk",
+        "position": "midfielders",
+        "injury_id": "47",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Aidan Nesbitt",
+        "team_name": "Falkirk",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Ethan Laidlaw",
+        "team_name": "Falkirk",
+        "position": "attackers",
+        "injury_id": "30",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Porto",
+    "league_slug": "uefa.europa",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Cláudio Ramos",
+        "team_name": "FC Porto",
+        "position": "keepers",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Vasco Sousa",
+        "team_name": "FC Porto",
+        "position": "midfielders",
+        "injury_id": "74",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Alan Varela",
+        "team_name": "FC Porto",
+        "position": "midfielders",
+        "injury_id": "38",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Samuel Aghehowa",
+        "team_name": "FC Porto",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Oskar Pietuszewski",
+        "team_name": "FC Porto",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Midtjylland",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ousmane Diao",
+        "team_name": "FC Midtjylland",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Edward Chilufya",
+        "team_name": "FC Midtjylland",
+        "position": "midfielders",
+        "injury_id": "92",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Victor Bak",
+        "team_name": "FC Midtjylland",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mikel Gogorza",
+        "team_name": "FC Midtjylland",
+        "position": "attackers",
+        "injury_id": "31",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Júnior Brumado",
+        "team_name": "FC Midtjylland",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Young Boys",
+    "league_slug": "uefa.europa",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ryan Andrews",
+        "team_name": "Young Boys",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Olivier Mambwa",
+        "team_name": "Young Boys",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Benjamin Kabeya",
+        "team_name": "Young Boys",
+        "position": "midfielders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Alan Virginius",
+        "team_name": "Young Boys",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Facinet Conte",
+        "team_name": "Young Boys",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Feyenoord",
+    "league_slug": "",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Bart Nieuwkoop",
+        "team_name": "Feyenoord",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Thomas Beelen",
+        "team_name": "Feyenoord",
+        "position": "defenders",
+        "injury_id": "2",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Gijs Smal",
+        "team_name": "Feyenoord",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jordan Bos",
+        "team_name": "Feyenoord",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Early November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jakub Moder",
+        "team_name": "Feyenoord",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Willem II",
+    "league_slug": "ned.1",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Thomas Didillon-Hödl",
+        "team_name": "Willem II",
+        "position": "keepers",
+        "injury_id": "42",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Hidde ter Avest",
+        "team_name": "Willem II",
+        "position": "defenders",
+        "injury_id": "137",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jari Schuurman",
+        "team_name": "Willem II",
+        "position": "midfielders",
+        "injury_id": "45",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Anass Zarrouk",
+        "team_name": "Willem II",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Amine Lachkar",
+        "team_name": "Willem II",
+        "position": "midfielders",
+        "injury_id": "47",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "KFUM",
+    "league_slug": "",
+    "injured_count": 5,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Emil Ødegaard",
+        "team_name": "KFUM",
+        "position": "keepers",
+        "injury_id": "130",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Ayoub Aleesami",
+        "team_name": "KFUM",
+        "position": "defenders",
+        "injury_id": "47",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Fredrik Tobias Berglie",
+        "team_name": "KFUM",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Robin Rasch",
+        "team_name": "KFUM",
+        "position": "midfielders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Magnus Retsius Grødem",
+        "team_name": "KFUM",
+        "position": "attackers",
+        "injury_id": "47",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Nottingham Forest",
+    "league_slug": "uefa.europa",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ola Aina",
+        "team_name": "Nottingham Forest",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Nicolò Savona",
+        "team_name": "Nottingham Forest",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Callum Hudson-Odoi",
+        "team_name": "Nottingham Forest",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Chris Wood",
+        "team_name": "Nottingham Forest",
+        "position": "attackers",
+        "injury_id": "69",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Real Betis",
+    "league_slug": "uefa.europa",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Diego Conde",
+        "team_name": "Real Betis",
+        "position": "keepers",
+        "injury_id": "32",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Aitor Ruibal",
+        "team_name": "Real Betis",
+        "position": "defenders",
+        "injury_id": "70",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Ismael Barea",
+        "team_name": "Real Betis",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early December 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Abdessamad Ezzalzouli",
+        "team_name": "Real Betis",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "VfB Stuttgart",
+    "league_slug": "uefa.europa",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Dennis Seimen",
+        "team_name": "VfB Stuttgart",
+        "position": "keepers",
+        "injury_id": "42",
+        "expected_return": "Early October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lorenz Assignon",
+        "team_name": "VfB Stuttgart",
+        "position": "defenders",
+        "injury_id": "32",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Dan-Axel Zagadou",
+        "team_name": "VfB Stuttgart",
+        "position": "defenders",
+        "injury_id": "42",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Leo Sauer",
+        "team_name": "VfB Stuttgart",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Vaduz",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Tim-Tiado Öhri",
+        "team_name": "FC Vaduz",
+        "position": "keepers",
+        "injury_id": "130",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Stephan Seiler",
+        "team_name": "FC Vaduz",
+        "position": "midfielders",
+        "injury_id": "74",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lado Akhalaia",
+        "team_name": "FC Vaduz",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Dejan Sorgic",
+        "team_name": "FC Vaduz",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "AZ Alkmaar",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Denso Kasius",
+        "team_name": "AZ Alkmaar",
+        "position": "defenders",
+        "injury_id": "47",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jordy Clasie",
+        "team_name": "AZ Alkmaar",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Matej Sín",
+        "team_name": "AZ Alkmaar",
+        "position": "midfielders",
+        "injury_id": "6",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jizz Hornkamp",
+        "team_name": "AZ Alkmaar",
+        "position": "attackers",
+        "injury_id": "30",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Rapid Wien",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Martin Ndzie",
+        "team_name": "Rapid Wien",
+        "position": "midfielders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Andrija Radulovic",
+        "team_name": "Rapid Wien",
+        "position": "attackers",
+        "injury_id": "70",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Daniel Nunoo",
+        "team_name": "Rapid Wien",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Claudy M'Buyi",
+        "team_name": "Rapid Wien",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Groningen",
+    "league_slug": "ned.1",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Marco Rente",
+        "team_name": "FC Groningen",
+        "position": "defenders",
+        "injury_id": "42",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Malcolm Jeng",
+        "team_name": "FC Groningen",
+        "position": "defenders",
+        "injury_id": "73",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Stije Resink",
+        "team_name": "FC Groningen",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Early January 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Oskar Zawada",
+        "team_name": "FC Groningen",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "NEC Nijmegen",
+    "league_slug": "ned.1",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Philippe Sandler",
+        "team_name": "NEC Nijmegen",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Yassin Moslih",
+        "team_name": "NEC Nijmegen",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Sami Ouaissa",
+        "team_name": "NEC Nijmegen",
+        "position": "midfielders",
+        "injury_id": "42",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Koki Ogawa",
+        "team_name": "NEC Nijmegen",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sandefjord",
+    "league_slug": "nor.1",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Devon Koswal",
+        "team_name": "Sandefjord",
+        "position": "defenders",
+        "injury_id": "70",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Filip Loftesnes-Bjune",
+        "team_name": "Sandefjord",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Marcus Melchior",
+        "team_name": "Sandefjord",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Nikolaj Möller",
+        "team_name": "Sandefjord",
+        "position": "attackers",
+        "injury_id": "30",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Maccabi Haifa",
+    "league_slug": "swe.1",
+    "injured_count": 4,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Pierre Cornud",
+        "team_name": "Maccabi Haifa",
+        "position": "defenders",
+        "injury_id": "76",
+        "expected_return": "Early December 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Ali Muhammad",
+        "team_name": "Maccabi Haifa",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Manuel Benson",
+        "team_name": "Maccabi Haifa",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Cédric Don",
+        "team_name": "Maccabi Haifa",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Aston Villa",
+    "league_slug": "uefa.europa",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Amadou Onana",
+        "team_name": "Aston Villa",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Late March 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Johan Manzambi",
+        "team_name": "Aston Villa",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Leon Bailey",
+        "team_name": "Aston Villa",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Lyon",
+    "league_slug": "uefa.champions_qual",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Mads Bidstrup",
+        "team_name": "Lyon",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Khalis Merah",
+        "team_name": "Lyon",
+        "position": "midfielders",
+        "injury_id": "38",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Pavel Sulc",
+        "team_name": "Lyon",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Real Madrid",
+    "league_slug": "uefa.champions",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Raúl Asencio",
+        "team_name": "Real Madrid",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "Mid September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Éder Militao",
+        "team_name": "Real Madrid",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Mid September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Rodrygo",
+        "team_name": "Real Madrid",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late December 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Nice",
+    "league_slug": "uefa.europa",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Mohamed Abdelmonem",
+        "team_name": "Nice",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Kojo Peprah Oppong",
+        "team_name": "Nice",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Laurent Abergel",
+        "team_name": "Nice",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Late April 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Rangers",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ben Godfrey",
+        "team_name": "Rangers",
+        "position": "defenders",
+        "injury_id": "42",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "José Cifuentes",
+        "team_name": "Rangers",
+        "position": "midfielders",
+        "injury_id": "140",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Youssef Chermiti",
+        "team_name": "Rangers",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late April 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sturm Graz",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Otar Kiteishvili",
+        "team_name": "Sturm Graz",
+        "position": "midfielders",
+        "injury_id": "101",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Filip Rózga",
+        "team_name": "Sturm Graz",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Leon Grgic",
+        "team_name": "Sturm Graz",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Basel",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jonas Omlin",
+        "team_name": "Basel",
+        "position": "keepers",
+        "injury_id": "87",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Coleen Louis",
+        "team_name": "Basel",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Gabriel Sigua",
+        "team_name": "Basel",
+        "position": "midfielders",
+        "injury_id": "130",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Lugano",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Martim Marques",
+        "team_name": "Lugano",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Daniel Dos Santos",
+        "team_name": "Lugano",
+        "position": "midfielders",
+        "injury_id": "130",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Claudio Cassano",
+        "team_name": "Lugano",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Servette",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jérémy Frick",
+        "team_name": "Servette",
+        "position": "keepers",
+        "injury_id": "45",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Yoan Severin",
+        "team_name": "Servette",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Junior Kadile",
+        "team_name": "Servette",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ADO Den Haag",
+    "league_slug": "ned.1",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jalen Hawkings",
+        "team_name": "ADO Den Haag",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Cameron Peupion",
+        "team_name": "ADO Den Haag",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Donat Barany",
+        "team_name": "ADO Den Haag",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "About a week",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fortuna Sittard",
+    "league_slug": "ned.1",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ramazan Bayram",
+        "team_name": "Fortuna Sittard",
+        "position": "keepers",
+        "injury_id": "14",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Iván Márquez",
+        "team_name": "Fortuna Sittard",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Sven Simons",
+        "team_name": "Fortuna Sittard",
+        "position": "midfielders",
+        "injury_id": "42",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Vålerenga",
+    "league_slug": "nor.1",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Magnus Smelhus Sjøeng",
+        "team_name": "Vålerenga",
+        "position": "keepers",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Fidel Brice Ambina",
+        "team_name": "Vålerenga",
+        "position": "midfielders",
+        "injury_id": "69",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Omar Bully Drammeh",
+        "team_name": "Vålerenga",
+        "position": "midfielders",
+        "injury_id": "73",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sarpsborg 08",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Sigurd Rosted",
+        "team_name": "Sarpsborg 08",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mathias Svenningsen-Grønn",
+        "team_name": "Sarpsborg 08",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Mid October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Frederik Carstensen",
+        "team_name": "Sarpsborg 08",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Lillestrøm",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Espen Garnås",
+        "team_name": "Lillestrøm",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Eric Kitolano",
+        "team_name": "Lillestrøm",
+        "position": "midfielders",
+        "injury_id": "23",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Camil Jebara",
+        "team_name": "Lillestrøm",
+        "position": "attackers",
+        "injury_id": "47",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Viking",
+    "league_slug": "",
+    "injured_count": 3,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Martin Roseth",
+        "team_name": "Viking",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Anders Bærtelsen",
+        "team_name": "Viking",
+        "position": "defenders",
+        "injury_id": "8",
+        "expected_return": "Early November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Veton Berisha",
+        "team_name": "Viking",
+        "position": "attackers",
+        "injury_id": "69",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Arsenal",
+    "league_slug": "uefa.champions",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "William Saliba",
+        "team_name": "Arsenal",
+        "position": "defenders",
+        "injury_id": "45",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Jurriën Timber",
+        "team_name": "Arsenal",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Crystal Palace",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Adam Wharton",
+        "team_name": "Crystal Palace",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Dwight McNeil",
+        "team_name": "Crystal Palace",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Brentford",
+    "league_slug": "eng.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Sepp van den Berg",
+        "team_name": "Brentford",
+        "position": "defenders",
+        "injury_id": "130",
+        "expected_return": "Mid October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Benjamin Fredrick",
+        "team_name": "Brentford",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "About 1-2 weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Barcelona",
+    "league_slug": "uefa.champions",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Frenkie de Jong",
+        "team_name": "Barcelona",
+        "position": "midfielders",
+        "injury_id": "70",
+        "expected_return": "Early October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Roony Bardghji",
+        "team_name": "Barcelona",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late February 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Hellas Verona",
+    "league_slug": "ita.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Suat Serdar",
+        "team_name": "Hellas Verona",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Daniel Mosquera",
+        "team_name": "Hellas Verona",
+        "position": "attackers",
+        "injury_id": "70",
+        "expected_return": "Mid July 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Celta Vigo",
+    "league_slug": "uefa.europa",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Javi Galán",
+        "team_name": "Celta Vigo",
+        "position": "defenders",
+        "injury_id": "69",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Matías Vecino",
+        "team_name": "Celta Vigo",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Getafe",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Christantus Uche",
+        "team_name": "Getafe",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Juanmi",
+        "team_name": "Getafe",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "Early November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Deportivo Alaves",
+    "league_slug": "",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Carlos Protesoni",
+        "team_name": "Deportivo Alaves",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lucas Boyé",
+        "team_name": "Deportivo Alaves",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Espanyol",
+    "league_slug": "esp.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Javi Puado",
+        "team_name": "Espanyol",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Kike García",
+        "team_name": "Espanyol",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Bayern München",
+    "league_slug": "",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Serge Gnabry",
+        "team_name": "Bayern München",
+        "position": "midfielders",
+        "injury_id": "69",
+        "expected_return": "Back in training",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Lennart Karl",
+        "team_name": "Bayern München",
+        "position": "midfielders",
+        "injury_id": "87",
+        "expected_return": "Back in training",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "league_slug": "uefa.champions",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Nico Schlotterbeck",
+        "team_name": "Borussia Dortmund",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Mid September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Emre Can",
+        "team_name": "Borussia Dortmund",
+        "position": "defenders",
+        "injury_id": "76",
+        "expected_return": "Mid November 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Poland",
+    "league_slug": "esp.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Oskar Pietuszewski",
+        "team_name": "Poland",
+        "position": "attackers",
+        "injury_id": "6",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Filip Rózga",
+        "team_name": "Poland",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Udinese",
+    "league_slug": "ita.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jurgen Ekkelenkamp",
+        "team_name": "Udinese",
+        "position": "midfielders",
+        "injury_id": "2",
+        "expected_return": "Early October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Alessandro Zanoli",
+        "team_name": "Udinese",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Mid October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Monaco",
+    "league_slug": "",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Mohammed Salisu",
+        "team_name": "Monaco",
+        "position": "defenders",
+        "injury_id": "76",
+        "expected_return": "Mid September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Takumi Minamino",
+        "team_name": "Monaco",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sporting CP",
+    "league_slug": "uefa.champions",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "João Simões",
+        "team_name": "Sporting CP",
+        "position": "midfielders",
+        "injury_id": "8",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Nuno Santos",
+        "team_name": "Sporting CP",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Brøndby IF",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Marko Divkovic",
+        "team_name": "Brøndby IF",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Frederik Alves Ibsen",
+        "team_name": "Brøndby IF",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Bodø/Glimt",
+    "league_slug": "",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Håkon Evjen",
+        "team_name": "Bodø/Glimt",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "August Mikkelsen",
+        "team_name": "Bodø/Glimt",
+        "position": "attackers",
+        "injury_id": "130",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Thun",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Genís Montolio",
+        "team_name": "Thun",
+        "position": "defenders",
+        "injury_id": "76",
+        "expected_return": "Early January 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Mattias Käit",
+        "team_name": "Thun",
+        "position": "midfielders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sion",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Kreshnik Hajrizi",
+        "team_name": "Sion",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "Late September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Benjamin Kololli",
+        "team_name": "Sion",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "SC Heerenveen",
+    "league_slug": "",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Mats Egbring",
+        "team_name": "SC Heerenveen",
+        "position": "defenders",
+        "injury_id": "30",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Oliver Braude",
+        "team_name": "SC Heerenveen",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Cambuur",
+    "league_slug": "ned.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Wiebe Kooistra",
+        "team_name": "Cambuur",
+        "position": "defenders",
+        "injury_id": "6",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Daan Visser",
+        "team_name": "Cambuur",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fredrikstad",
+    "league_slug": "nor.1",
+    "injured_count": 2,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Sigurd Kvile",
+        "team_name": "Fredrikstad",
+        "position": "defenders",
+        "injury_id": "14",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      },
+      {
+        "player_name": "Sondre Sørløkk",
+        "team_name": "Fredrikstad",
+        "position": "midfielders",
+        "injury_id": "21",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Manchester City",
+    "league_slug": "uefa.champions",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Rodri",
+        "team_name": "Manchester City",
+        "position": "midfielders",
+        "injury_id": "45",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "West Ham United",
+    "league_slug": "eng.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Keiber Lamadrid",
+        "team_name": "West Ham United",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fulham",
+    "league_slug": "eng.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Tom Cairney",
+        "team_name": "Fulham",
+        "position": "midfielders",
+        "injury_id": "14",
+        "expected_return": "Mid October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Burnley",
+    "league_slug": "eng.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Josh Cullen",
+        "team_name": "Burnley",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Atletico Madrid",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Alexander Sørloth",
+        "team_name": "Atletico Madrid",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Anderlecht",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Cedric Hatenboer",
+        "team_name": "Anderlecht",
+        "position": "midfielders",
+        "injury_id": "78",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Mallorca",
+    "league_slug": "esp.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jan Salas",
+        "team_name": "Mallorca",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Late October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Schalke 04",
+    "league_slug": "esp.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Adrian Gantenbein",
+        "team_name": "Schalke 04",
+        "position": "midfielders",
+        "injury_id": "30",
+        "expected_return": "Mid September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Grazer AK",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Tim Trummer",
+        "team_name": "Grazer AK",
+        "position": "defenders",
+        "injury_id": "42",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Freiburg",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Florent Muslija",
+        "team_name": "Freiburg",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Racing Santander",
+    "league_slug": "esp.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Giorgi Guliashvili",
+        "team_name": "Racing Santander",
+        "position": "attackers",
+        "injury_id": "141",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Zenit St. Petersburg",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Vadim Shilov",
+        "team_name": "Zenit St. Petersburg",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Juventus",
+    "league_slug": "uefa.champions",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jeff Ekhator",
+        "team_name": "Juventus",
+        "position": "attackers",
+        "injury_id": "87",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Milan",
+    "league_slug": "ita.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Christian Pulisic",
+        "team_name": "Milan",
+        "position": "attackers",
+        "injury_id": "69",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fiorentina",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Fabiano Parisi",
+        "team_name": "Fiorentina",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Early December 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Lazio",
+    "league_slug": "ita.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Gustav Isaksen",
+        "team_name": "Lazio",
+        "position": "attackers",
+        "injury_id": "47",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Atalanta",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Isak Hien",
+        "team_name": "Atalanta",
+        "position": "defenders",
+        "injury_id": "42",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Torino",
+    "league_slug": "ita.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Pietro Pellegri",
+        "team_name": "Torino",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Early September 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Frosinone",
+    "league_slug": "ita.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Sebastiano Desplanches",
+        "team_name": "Frosinone",
+        "position": "keepers",
+        "injury_id": "42",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Lille",
+    "league_slug": "uefa.europa",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Hamza Igamane",
+        "team_name": "Lille",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Early October 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Strasbourg",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Joaquín Panichelli",
+        "team_name": "Strasbourg",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Early December 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "PAOK Thessaloniki",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Shola Shoretire",
+        "team_name": "PAOK Thessaloniki",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Ferencvaros",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Daniel Arzani",
+        "team_name": "Ferencvaros",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Maccabi Tel Aviv",
+    "league_slug": "il.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Ion Nicolaescu",
+        "team_name": "Maccabi Tel Aviv",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Unknown",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Norwich City",
+    "league_slug": "uefa.champions",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Mirko Topic",
+        "team_name": "Norwich City",
+        "position": "midfielders",
+        "injury_id": "76",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Moreirense",
+    "league_slug": "uefa.champions",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Dinis Pinto",
+        "team_name": "Moreirense",
+        "position": "defenders",
+        "injury_id": "32",
+        "expected_return": "Out for season",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Olympiacos",
+    "league_slug": "uefa.champions",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Yusuf Yazici",
+        "team_name": "Olympiacos",
+        "position": "attackers",
+        "injury_id": "76",
+        "expected_return": "Late January 2027",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Grasshopper",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Saulo Decarli",
+        "team_name": "Grasshopper",
+        "position": "defenders",
+        "injury_id": "87",
+        "expected_return": "A few weeks",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Coventry City",
+    "league_slug": "eng.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Jack Rudoni",
+        "team_name": "Coventry City",
+        "position": "midfielders",
+        "injury_id": "32",
+        "expected_return": "Doubtful",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Excelsior",
+    "league_slug": "ned.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Kasey Bos",
+        "team_name": "Excelsior",
+        "position": "attackers",
+        "injury_id": "32",
+        "expected_return": "Day to day",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "PEC Zwolle",
+    "league_slug": "ned.1",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Younes Namli",
+        "team_name": "PEC Zwolle",
+        "position": "attackers",
+        "injury_id": "14",
+        "expected_return": "A few days",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Kristiansund",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "David Tufekcic",
+        "team_name": "Kristiansund",
+        "position": "attackers",
+        "injury_id": "42",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Start",
+    "league_slug": "",
+    "injured_count": 1,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [
+      {
+        "player_name": "Kristoffer Tønnessen",
+        "team_name": "Start",
+        "position": "defenders",
+        "injury_id": "74",
+        "expected_return": "Late August 2026",
+        "importance_proxy": 1.0,
+        "market_value": "unknown"
+      }
+    ],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Wolverhampton Wanderers",
+    "league_slug": "eng.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Halifax Town",
+    "league_slug": "eng.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Villarreal",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fortuna Hjørring (W)",
+    "league_slug": "eng.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8583",
+    "league_slug": "esp.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8569",
+    "league_slug": "esp.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Rayo Vallecano",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Figueirense",
+    "league_slug": "esp.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8660",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Montpellier",
+    "league_slug": "esp.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10019",
+    "league_slug": "esp.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9822",
+    "league_slug": "ger.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9878",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Notts County",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8727",
+    "league_slug": "ger.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8221",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8732",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9757",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Bolton Wanderers",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9880",
+    "league_slug": "ger.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10018",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Inter",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9884",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Roma",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Bologna",
+    "league_slug": "uefa.europa",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8532",
+    "league_slug": "ita.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sochaux",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9807",
+    "league_slug": "ita.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9881",
+    "league_slug": "ita.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Marseille",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8530",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Rennes",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9944",
+    "league_slug": "fra.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10246",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9852",
+    "league_slug": "fra.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9946",
+    "league_slug": "fra.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_9856",
+    "league_slug": "fra.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Chateauroux",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Grenoble",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Benfica",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8124",
+    "league_slug": "uefa.champions",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8627",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Ludogorets Razgrad",
+    "league_slug": "uefa.europa",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Forest Green Rovers",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Pafos FC",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Dobrudzha Dobrich",
+    "league_slug": "uefa.champions_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Palermo",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10102",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10178",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10115",
+    "league_slug": "md.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Yeovil Town",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Ruzomberok",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8128",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8123",
+    "league_slug": "uefa.europa_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Atromitos",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10031",
+    "league_slug": "uefa.europa.conf",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10016",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_211110",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_7880",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Åsane",
+    "league_slug": "uefa.champions_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_10184",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8114",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Telstar",
+    "league_slug": "ned.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sparta Rotterdam",
+    "league_slug": "ned.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Levadia Tallinn",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Hamarkameratene",
+    "league_slug": "nor.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Yokohama F.Marinos",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Gamba Osaka",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Kashima Antlers",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Urawa Red Diamonds",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Vissel Kobe",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Avispa Fukuoka",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Cerezo Osaka",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Fagiano Okayama FC",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "FC Tokyo",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Machida Zelvia",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Kawasaki Frontale",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Nagoya Grampus",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Kyoto Sanga FC",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Kashiwa Reysol",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Shimizu S-Pulse",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Sanfrecce Hiroshima",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Mito Hollyhock",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Tokyo Verdy",
+    "league_slug": "",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Breclav",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "JEF United Chiba",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "V-Varen Nagasaki",
+    "league_slug": "jpn.1",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "ID_8547",
+    "league_slug": "uefa.europa.conf_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  },
+  {
+    "team": "Beşiktaş",
+    "league_slug": "uefa.champions_qual",
+    "injured_count": 0,
+    "primary_source": "fotmob",
+    "sources": [
+      "fotmob"
+    ],
+    "players": [],
+    "as_of_utc": "2026-08-15T21:01:23.832258+00:00"
+  }
+]

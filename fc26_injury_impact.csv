@@ -1,0 +1,217 @@
+id,team_name,player_name,position,fc26_ovr,fc26_pac,fc26_sho,fc26_pas,fc26_dri,fc26_def,fc26_phy,is_gk,gk_div,gk_han,gk_kic,gk_pos,gk_ref,gk_spd,category,position_impact,role_factor,fc26_player_impact,league_slug,source,fetched_at
+92,Manchester United,Karl Darlow,keepers,72,,,,,,,1,73,70,66,72,75,58,GK_defense,73.3,0.6,44.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+93,Manchester United,Senne Lammens,keepers,78,,,,,,,1,79,77,71,79,77,21,GK_defense,78.3,1.0,78.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+94,Manchester United,Matthijs de Ligt,defenders,82,62,61,62,67,82,83,0,,,,,,,DEF_defense,82.5,1.2,99.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+95,Manchester United,Lisandro Martínez,defenders,81,67,59,75,75,81,80,0,,,,,,,DEF_defense,80.5,1.0,80.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+96,Manchester United,Mason Mount,midfielders,77,67,76,79,78,62,61,0,,,,,,,MID_both,73.0,0.6,43.8,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+97,Manchester United,Manuel Ugarte,midfielders,79,62,65,72,76,77,75,0,,,,,,,MID_both,75.0,1.0,75.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+98,Manchester United,Kobbie Mainoo,midfielders,77,68,69,74,81,73,74,0,,,,,,,MID_both,76.0,0.6,45.6,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+99,Manchester United,Matheus Cunha,attackers,83,77,85,79,84,44,75,0,,,,,,,ATT_attack,82.0,1.2,98.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+100,Manchester United,Benjamin Sesko,attackers,80,83,80,65,78,46,80,0,,,,,,,ATT_attack,80.3,1.0,80.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+101,Liverpool,Vítezslav Jaros,keepers,70,,,,,,,1,72,70,70,68,70,39,GK_defense,70.0,0.3,21.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+102,Liverpool,Jérémy Jacquet,defenders,75,64,38,57,61,75,76,0,,,,,,,DEF_defense,75.5,0.6,45.3,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+103,Liverpool,Joseph Gomez,defenders,79,74,29,70,71,79,73,0,,,,,,,DEF_defense,76.0,1.0,76.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+104,Liverpool,Conor Bradley,defenders,78,80,61,70,75,75,74,0,,,,,,,DEF_defense,74.5,1.0,74.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+105,Liverpool,Giovanni Leoni,defenders,69,53,27,42,52,71,68,0,,,,,,,DEF_defense,69.5,0.3,20.85,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+106,Liverpool,Curtis Jones,midfielders,80,74,74,76,82,72,76,0,,,,,,,MID_both,76.7,1.0,76.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+107,Liverpool,Stefan Bajcetic,midfielders,73,74,52,67,73,71,71,0,,,,,,,MID_both,70.3,0.6,42.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+108,Liverpool,Hugo Ekitiké,attackers,83,86,78,69,85,33,73,0,,,,,,,ATT_attack,83.0,1.2,99.6,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+109,FC Utrecht,Vasilios Barkas,keepers,74,,,,,,,1,74,72,73,72,76,42,GK_defense,74.0,0.6,44.4,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+110,FC Utrecht,Matisse Didden,defenders,68,48,36,55,56,66,78,0,,,,,,,DEF_defense,72.0,0.3,21.6,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+111,FC Utrecht,Neville Ogidi Nwankwo,defenders,61,74,36,43,45,62,65,0,,,,,,,DEF_defense,63.5,0.3,19.05,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+112,FC Utrecht,Victor Jensen,midfielders,69,70,66,65,71,55,64,0,,,,,,,MID_both,63.7,0.3,19.1,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+113,FC Utrecht,Alonzo Engwanda,midfielders,70,78,51,60,69,68,74,0,,,,,,,MID_both,65.7,0.3,19.7,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+114,FC Utrecht,Jaygo van Ommeren,midfielders,62,68,44,58,59,59,54,0,,,,,,,MID_both,58.7,0.3,17.6,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+115,FC Utrecht,Miliano Jonathans,attackers,66,75,63,62,66,23,55,0,,,,,,,ATT_attack,68.0,0.3,20.4,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+116,FC Utrecht,Noah Ohio,attackers,67,88,65,51,67,25,67,0,,,,,,,ATT_attack,73.3,0.3,22.0,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+117,St. Gallen,Cyrill May,defenders,59,64,24,40,40,60,63,0,,,,,,,DEF_defense,61.5,0.3,18.45,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+118,St. Gallen,Colin Kleine-Bekel,defenders,67,54,28,42,41,69,71,0,,,,,,,DEF_defense,70.0,0.3,21.0,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+119,St. Gallen,Stephan Ambrosius,defenders,68,64,31,44,52,67,77,0,,,,,,,DEF_defense,72.0,0.3,21.6,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+120,St. Gallen,Tom Gaal,defenders,67,54,36,50,58,67,72,0,,,,,,,DEF_defense,69.5,0.3,20.85,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+121,St. Gallen,Behar Neziri,midfielders,58,68,49,54,52,54,56,0,,,,,,,MID_both,53.3,0.3,16.0,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+122,St. Gallen,Malamine Efekele,attackers,63,85,62,54,67,19,52,0,,,,,,,ATT_attack,71.3,0.3,21.4,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+123,Tottenham Hotspur,Cristian Romero,defenders,82,66,48,62,65,83,81,0,,,,,,,DEF_defense,82.0,1.2,98.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+124,Tottenham Hotspur,Xavi Simons,midfielders,84,77,77,80,87,61,70,0,,,,,,,MID_both,76.0,1.2,91.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+125,Tottenham Hotspur,James Maddison,midfielders,84,67,81,86,85,58,64,0,,,,,,,MID_both,76.3,1.2,91.6,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+126,Tottenham Hotspur,Dejan Kulusevski,midfielders,83,74,79,84,85,62,81,0,,,,,,,MID_both,77.0,1.2,92.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+127,Tottenham Hotspur,Dominic Solanke,attackers,80,71,80,66,77,42,83,0,,,,,,,ATT_attack,76.0,1.0,76.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+128,Tottenham Hotspur,Mohammed Kudus,attackers,80,89,76,72,86,60,74,0,,,,,,,ATT_attack,83.7,1.0,83.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+129,Tottenham Hotspur,Wilson Odobert,attackers,75,86,70,68,78,30,49,0,,,,,,,ATT_attack,78.0,0.6,46.8,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+130,AFC Bournemouth,Julián Araujo,defenders,74,83,35,64,70,71,73,0,,,,,,,DEF_defense,72.0,0.6,43.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+131,AFC Bournemouth,Veljko Milosavljevic,defenders,70,53,39,54,55,69,75,0,,,,,,,DEF_defense,72.0,0.3,21.6,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+132,AFC Bournemouth,Tyler Adams,midfielders,79,79,56,71,75,79,75,0,,,,,,,MID_both,75.0,1.0,75.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+133,AFC Bournemouth,David Brooks,attackers,75,70,69,74,77,48,58,0,,,,,,,ATT_attack,72.0,0.6,43.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+134,AFC Bournemouth,Amine Adli,attackers,78,84,76,70,82,42,69,0,,,,,,,ATT_attack,80.7,1.0,80.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+135,Brighton & Hove Albion,Carlos Baleba,midfielders,81,74,70,75,80,79,79,0,,,,,,,MID_both,78.0,1.0,78.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+136,Brighton & Hove Albion,Matthew O'Riley,midfielders,78,68,78,79,76,67,73,0,,,,,,,MID_both,74.0,1.0,74.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+137,Brighton & Hove Albion,Evan Ferguson,attackers,73,66,75,60,71,20,71,0,,,,,,,ATT_attack,70.7,0.6,42.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+138,Brighton & Hove Albion,Stefanos Tzimas,attackers,72,76,70,52,69,31,72,0,,,,,,,ATT_attack,71.7,0.6,43.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+139,Brighton & Hove Albion,Yankuba Minteh,attackers,77,94,67,66,81,55,57,0,,,,,,,ATT_attack,80.7,0.6,48.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+140,Brighton & Hove Albion,Kaoru Mitoma,attackers,82,87,73,76,86,57,64,0,,,,,,,ATT_attack,82.0,1.2,98.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+141,Chelsea,Levi Colwill,defenders,80,70,43,71,72,81,80,0,,,,,,,DEF_defense,80.5,1.0,80.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+142,Chelsea,Mamadou Sarr,defenders,76,66,30,56,57,77,73,0,,,,,,,DEF_defense,75.0,0.6,45.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+143,Chelsea,Aaron Anselmino,defenders,70,67,45,62,63,70,72,0,,,,,,,DEF_defense,71.0,0.3,21.3,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+144,Chelsea,Caleb Wiley,midfielders,68,76,52,63,72,62,63,0,,,,,,,MID_both,65.7,0.3,19.7,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+145,Chelsea,Jordan Henderson,midfielders,79,65,71,80,74,75,77,0,,,,,,,MID_both,76.3,1.0,76.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+146,Chelsea,Emanuel Emegha,attackers,78,89,76,58,70,31,79,0,,,,,,,ATT_attack,78.3,1.0,78.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+147,Sparta Prague,Emmanuel Uchenna,defenders,70,68,44,56,55,69,75,0,,,,,,,DEF_defense,72.0,0.3,21.6,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+148,Sparta Prague,Magnus Kofod Andersen,midfielders,70,72,59,68,72,61,76,0,,,,,,,MID_both,67.0,0.3,20.1,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+149,Sparta Prague,Sivert Heggheim Mannsverk,midfielders,68,60,58,65,68,63,74,0,,,,,,,MID_both,65.3,0.3,19.6,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+150,Sparta Prague,Patrik Vydra,midfielders,70,68,64,70,67,66,78,0,,,,,,,MID_both,67.7,0.3,20.3,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+151,Rapid Wien,Jean Marcelin,defenders,69,64,39,52,53,69,75,0,,,,,,,DEF_defense,72.0,0.3,21.6,aut.1,fc26_eafchub,2026-08-13T00:56:02.827886
+152,Rapid Wien,Martin Ndzie,midfielders,68,74,52,60,65,69,71,0,,,,,,,MID_both,64.7,0.3,19.4,aut.1,fc26_eafchub,2026-08-13T00:56:02.827886
+153,Rapid Wien,Andrija Radulovic,attackers,67,80,64,63,69,29,64,0,,,,,,,ATT_attack,71.0,0.3,21.3,aut.1,fc26_eafchub,2026-08-13T00:56:02.827886
+154,Rapid Wien,Claudy M'Buyi,attackers,67,83,66,53,64,30,69,0,,,,,,,ATT_attack,71.0,0.3,21.3,aut.1,fc26_eafchub,2026-08-13T00:56:02.827886
+155,Newcastle United,Lewis Hall,defenders,80,77,62,78,79,77,64,0,,,,,,,DEF_defense,70.5,1.0,70.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+156,Newcastle United,Fabian Schär,defenders,82,51,68,76,73,84,80,0,,,,,,,DEF_defense,82.0,1.2,98.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+157,Newcastle United,Valentino Livramento,defenders,80,82,51,72,78,76,74,0,,,,,,,DEF_defense,75.0,1.0,75.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+158,Newcastle United,Lewis Miley,midfielders,72,65,61,72,73,64,66,0,,,,,,,MID_both,69.7,0.6,41.8,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+159,Newcastle United,Anthony Elanga,attackers,81,92,72,76,82,39,70,0,,,,,,,ATT_attack,82.0,1.0,82.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+160,KFUM,Emil Ødegaard,keepers,65,,,,,,,1,64,63,65,63,65,45,GK_defense,64.0,0.3,19.2,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+161,KFUM,Ayoub Aleesami,defenders,63,65,36,47,49,60,73,0,,,,,,,DEF_defense,66.5,0.3,19.95,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+162,KFUM,Fredrik Tobias Berglie,defenders,65,58,27,49,56,64,69,0,,,,,,,DEF_defense,66.5,0.3,19.95,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+163,KFUM,Robin Rasch,midfielders,68,37,60,66,60,64,70,0,,,,,,,MID_both,63.3,0.3,19.0,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+164,KFUM,Magnus Retsius Grødem,attackers,62,66,62,62,66,45,70,0,,,,,,,ATT_attack,64.7,0.3,19.4,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+165,Viking,Martin Roseth,defenders,66,67,32,51,58,65,72,0,,,,,,,DEF_defense,68.5,0.3,20.55,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+166,Viking,Anders Bærtelsen,defenders,67,68,47,47,59,65,75,0,,,,,,,DEF_defense,70.0,0.3,21.0,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+167,Viking,Henrik Falchener,defenders,65,64,46,54,57,62,73,0,,,,,,,DEF_defense,67.5,0.3,20.25,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+168,Viking,Joe Bell,midfielders,74,70,64,72,71,69,81,0,,,,,,,MID_both,70.7,0.6,42.4,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+169,Viking,Veton Berisha,attackers,68,81,67,61,66,37,81,0,,,,,,,ATT_attack,71.3,0.3,21.4,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+170,FC Porto,Cláudio Ramos,keepers,73,,,,,,,1,78,72,64,72,72,55,GK_defense,74.0,0.6,44.4,por.1,fc26_eafchub,2026-08-13T00:56:02.827886
+171,FC Porto,Vasco Sousa,midfielders,69,70,58,68,73,49,45,0,,,,,,,MID_both,63.3,0.3,19.0,por.1,fc26_eafchub,2026-08-13T00:56:02.827886
+172,FC Porto,Alan Varela,midfielders,79,70,65,74,73,75,78,0,,,,,,,MID_both,74.0,1.0,74.0,por.1,fc26_eafchub,2026-08-13T00:56:02.827886
+173,FC Porto,Samuel Aghehowa,attackers,79,79,79,58,68,36,83,0,,,,,,,ATT_attack,75.3,1.0,75.33,por.1,fc26_eafchub,2026-08-13T00:56:02.827886
+174,FC Porto,André Silva,attackers,76,72,76,70,75,46,74,0,,,,,,,ATT_attack,74.3,0.6,44.6,por.1,fc26_eafchub,2026-08-13T00:56:02.827886
+175,Young Boys,Ryan Andrews,defenders,68,85,56,58,69,62,62,0,,,,,,,DEF_defense,62.0,0.3,18.6,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+176,Young Boys,Alan Virginius,attackers,68,90,59,59,70,27,42,0,,,,,,,ATT_attack,73.0,0.3,21.9,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+177,Young Boys,Facinet Conte,attackers,63,81,63,44,65,19,46,0,,,,,,,ATT_attack,69.7,0.3,20.9,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+178,Falkirk,Thomas Lang,defenders,56,58,25,33,41,59,59,0,,,,,,,DEF_defense,59.0,0.3,17.7,tur.1,fc26_eafchub,2026-08-13T00:56:02.827886
+179,Falkirk,Keelan Adams,defenders,58,63,29,42,57,56,53,0,,,,,,,DEF_defense,54.5,0.3,16.35,tur.1,fc26_eafchub,2026-08-13T00:56:02.827886
+180,Falkirk,Scott Tanser,midfielders,65,72,56,62,64,60,59,0,,,,,,,MID_both,62.0,0.3,18.6,tur.1,fc26_eafchub,2026-08-13T00:56:02.827886
+181,Falkirk,Aidan Nesbitt,midfielders,60,70,49,54,65,33,45,0,,,,,,,MID_both,50.7,0.3,15.2,tur.1,fc26_eafchub,2026-08-13T00:56:02.827886
+182,FC Midtjylland,Ousmane Diao,defenders,72,77,59,57,64,69,81,0,,,,,,,DEF_defense,75.0,0.6,45.0,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+183,FC Midtjylland,Edward Chilufya,midfielders,69,88,65,63,70,34,61,0,,,,,,,MID_both,55.7,0.3,16.7,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+184,FC Midtjylland,Victor Bak,midfielders,68,81,54,63,65,61,70,0,,,,,,,MID_both,63.0,0.3,18.9,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+185,FC Midtjylland,Mikel Gogorza,attackers,67,76,63,63,67,32,55,0,,,,,,,ATT_attack,68.7,0.3,20.6,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+186,Aston Villa,Johan Manzambi,midfielders,67,75,61,59,72,56,62,0,,,,,,,MID_both,62.3,0.3,18.7,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+187,Aston Villa,Amadou Onana,midfielders,79,74,62,72,73,78,81,0,,,,,,,MID_both,74.3,1.0,74.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+188,Aston Villa,John McGinn,attackers,81,69,77,78,80,77,83,0,,,,,,,ATT_attack,75.3,1.0,75.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+189,Aston Villa,Leon Bailey,attackers,79,87,74,73,84,38,61,0,,,,,,,ATT_attack,81.7,1.0,81.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+190,Nottingham Forest,Ola Aina,defenders,80,88,63,71,75,78,75,0,,,,,,,DEF_defense,76.5,1.0,76.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+191,Nottingham Forest,Nicolò Savona,defenders,71,68,44,58,63,70,69,0,,,,,,,DEF_defense,69.5,0.3,20.85,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+192,Nottingham Forest,Callum Hudson-Odoi,attackers,78,82,75,75,81,50,63,0,,,,,,,ATT_attack,79.3,1.0,79.33,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+193,Nottingham Forest,Chris Wood,attackers,82,53,83,68,72,40,81,0,,,,,,,ATT_attack,69.3,1.2,83.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+194,Real Betis,Diego Conde,keepers,77,,,,,,,1,75,75,68,76,79,43,GK_defense,76.7,0.6,46.0,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+195,Real Betis,Aitor Ruibal,defenders,77,82,74,73,76,72,69,0,,,,,,,DEF_defense,70.5,0.6,42.3,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+196,Real Betis,Ismael Barea,midfielders,65,64,52,64,65,62,68,0,,,,,,,MID_both,63.7,0.3,19.1,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+197,Real Madrid,Thibaut Courtois,keepers,89,,,,,,,1,85,89,76,88,90,46,GK_defense,87.7,1.5,131.5,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+198,Real Madrid,Raúl Asencio,defenders,77,74,37,55,71,78,76,0,,,,,,,DEF_defense,77.0,0.6,46.2,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+199,Real Madrid,Éder Militao,defenders,84,82,50,69,71,85,82,0,,,,,,,DEF_defense,83.5,1.2,100.2,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+200,Real Madrid,Rodrygo,attackers,85,88,80,79,87,31,64,0,,,,,,,ATT_attack,85.0,1.2,102.0,esp.1,fc26_eafchub,2026-08-13T00:56:02.827886
+201,Borussia Dortmund,Nico Schlotterbeck,defenders,85,74,60,75,73,85,82,0,,,,,,,DEF_defense,83.5,1.2,100.2,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+202,Borussia Dortmund,Emre Can,defenders,82,77,76,72,74,82,84,0,,,,,,,DEF_defense,83.0,1.2,99.6,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+203,Borussia Dortmund,Konstantinos Karetsas,attackers,70,73,65,72,77,23,46,0,,,,,,,ATT_attack,71.7,0.3,21.5,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+204,VfB Stuttgart,Dennis Seimen,keepers,66,,,,,,,1,67,61,65,62,69,40,GK_defense,66.0,0.3,19.8,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+205,VfB Stuttgart,Lorenz Assignon,defenders,76,76,53,64,73,73,73,0,,,,,,,DEF_defense,73.0,0.6,43.8,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+206,VfB Stuttgart,Dan-Axel Zagadou,defenders,76,46,34,60,51,77,79,0,,,,,,,DEF_defense,78.0,0.6,46.8,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+207,VfB Stuttgart,Leo Sauer,attackers,72,88,63,64,76,39,60,0,,,,,,,ATT_attack,75.7,0.6,45.4,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+208,Sandefjord,Devon Koswal,defenders,63,69,33,42,41,63,69,0,,,,,,,DEF_defense,66.0,0.3,19.8,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+209,Sandefjord,Filip Loftesnes-Bjune,defenders,62,69,43,56,59,57,60,0,,,,,,,DEF_defense,58.5,0.3,17.55,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+210,Sandefjord,Marcus Melchior,midfielders,62,55,57,56,64,55,52,0,,,,,,,MID_both,58.3,0.3,17.5,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+211,Sandefjord,Nikolaj Möller,attackers,63,54,62,49,61,29,68,0,,,,,,,ATT_attack,59.0,0.3,17.7,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+212,Maccabi Haifa,Ali Muhammad,midfielders,66,75,51,58,62,60,67,0,,,,,,,MID_both,60.0,0.3,18.0,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+213,Maccabi Haifa,Manuel Benson,attackers,73,82,70,69,78,35,44,0,,,,,,,ATT_attack,76.7,0.6,46.0,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+214,Rangers,Ben Godfrey,defenders,73,79,43,60,60,72,75,0,,,,,,,DEF_defense,73.5,0.6,44.1,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+215,Rangers,José Cifuentes,midfielders,72,71,61,68,73,71,78,0,,,,,,,MID_both,70.7,0.6,42.4,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+216,Rangers,Connor Barron,midfielders,72,70,61,72,69,65,75,0,,,,,,,MID_both,68.7,0.6,41.2,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+217,Rangers,Youssef Chermiti,attackers,71,65,68,55,69,33,70,0,,,,,,,ATT_attack,67.3,0.3,20.2,uefa.champions_qual,fc26_eafchub,2026-08-13T00:56:02.827886
+218,Arsenal,William Saliba,defenders,87,77,39,68,72,87,83,0,,,,,,,DEF_defense,85.0,1.5,127.5,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+219,Arsenal,Jurriën Timber,defenders,82,76,48,72,77,82,80,0,,,,,,,DEF_defense,81.0,1.2,97.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+220,Lyon,Mads Bidstrup,midfielders,73,70,58,70,72,72,76,0,,,,,,,MID_both,71.3,0.6,42.8,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+221,Lyon,Khalis Merah,midfielders,66,64,51,66,72,56,42,0,,,,,,,MID_both,64.7,0.3,19.4,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+222,Lyon,Pavel Sulc,attackers,77,71,73,74,77,39,64,0,,,,,,,ATT_attack,73.7,0.6,44.2,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+223,Nice,Mohamed Abdelmonem,defenders,74,62,40,63,61,74,74,0,,,,,,,DEF_defense,74.0,0.6,44.4,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+224,Nice,Kojo Peprah Oppong,defenders,68,74,25,44,55,68,71,0,,,,,,,DEF_defense,69.5,0.3,20.85,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+225,Nice,Laurent Abergel,midfielders,75,60,50,69,72,71,75,0,,,,,,,MID_both,70.7,0.6,42.4,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+226,Feyenoord,Thomas Beelen,defenders,74,77,43,63,68,74,77,0,,,,,,,DEF_defense,75.5,0.6,45.3,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+227,Feyenoord,Jordan Bos,defenders,69,87,58,60,68,61,79,0,,,,,,,DEF_defense,70.0,0.3,21.0,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+228,Feyenoord,Jakub Moder,midfielders,75,64,70,74,73,71,78,0,,,,,,,MID_both,72.7,0.6,43.6,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+229,Sarpsborg 08,Sigurd Rosted,defenders,64,34,47,51,51,62,76,0,,,,,,,DEF_defense,69.0,0.3,20.7,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+230,Sarpsborg 08,Mathias Svenningsen-Grønn,midfielders,54,67,50,49,54,48,48,0,,,,,,,MID_both,50.3,0.3,15.1,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+231,Sarpsborg 08,Frederik Carstensen,attackers,64,67,59,60,66,22,50,0,,,,,,,ATT_attack,64.0,0.3,19.2,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+232,Basel,Jonas Omlin,keepers,76,,,,,,,1,77,76,68,73,78,52,GK_defense,76.0,0.6,45.6,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+233,Basel,Coleen Louis,defenders,61,61,28,48,50,68,56,0,,,,,,,DEF_defense,62.0,0.3,18.6,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+234,Basel,Gabriel Sigua,midfielders,60,65,57,53,63,53,67,0,,,,,,,MID_both,56.3,0.3,16.9,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+235,Lugano,Martim Marques,defenders,65,69,36,59,69,61,46,0,,,,,,,DEF_defense,53.5,0.3,16.05,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+236,Lugano,Daniel Dos Santos,midfielders,78,32,52,69,65,80,75,0,,,,,,,MID_both,71.3,1.0,71.33,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+237,Servette,Jérémy Frick,keepers,70,,,,,,,1,71,68,68,69,70,44,GK_defense,70.0,0.3,21.0,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+238,Servette,Yoan Severin,defenders,68,65,27,50,51,67,77,0,,,,,,,DEF_defense,72.0,0.3,21.6,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+239,Deportivo Alaves,Carlos Protesoni,defenders,73,65,49,66,69,73,71,0,,,,,,,DEF_defense,72.0,0.6,43.2,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+240,Deportivo Alaves,Miguel Rodríguez,attackers,73,79,67,67,74,55,66,0,,,,,,,ATT_attack,73.3,0.6,44.0,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+241,Deportivo Alaves,Lucas Boyé,attackers,73,69,73,64,72,49,80,0,,,,,,,ATT_attack,71.3,0.6,42.8,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+242,FC Groningen,Marco Rente,defenders,68,83,29,53,52,66,76,0,,,,,,,DEF_defense,71.0,0.3,21.3,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+243,FC Groningen,Malcolm Jeng,defenders,65,69,32,54,60,65,70,0,,,,,,,DEF_defense,67.5,0.3,20.25,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+244,FC Groningen,Stije Resink,midfielders,69,69,58,66,67,63,71,0,,,,,,,MID_both,65.3,0.3,19.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+245,Vålerenga,Omar Bully Drammeh,midfielders,59,78,52,51,63,35,55,0,,,,,,,MID_both,49.7,0.3,14.9,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+246,Brøndby IF,Marko Divkovic,defenders,66,80,59,63,66,57,63,0,,,,,,,DEF_defense,60.0,0.3,18.0,bel.1,fc26_eafchub,2026-08-13T00:56:02.827886
+247,Brentford,Benjamin Fredrick,defenders,61,67,32,49,57,57,67,0,,,,,,,DEF_defense,62.0,0.3,18.6,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+248,Brentford,Sepp van den Berg,defenders,77,72,36,63,66,78,76,0,,,,,,,DEF_defense,77.0,0.6,46.2,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+249,Burnley,Jordan Beyer,defenders,74,72,34,63,69,74,74,0,,,,,,,DEF_defense,74.0,0.6,44.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+250,Burnley,Josh Cullen,midfielders,76,61,61,75,73,72,70,0,,,,,,,MID_both,73.3,0.6,44.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+251,Crystal Palace,Adam Wharton,midfielders,79,62,62,81,77,75,69,0,,,,,,,MID_both,77.7,1.0,77.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+252,Crystal Palace,Dwight McNeil,attackers,78,67,76,79,79,55,68,0,,,,,,,ATT_attack,74.0,1.0,74.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+253,Manchester City,Rodri,midfielders,90,65,80,86,84,86,85,0,,,,,,,MID_both,85.3,1.5,128.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+254,Manchester City,Jack Grealish,attackers,80,72,76,80,85,53,67,0,,,,,,,ATT_attack,77.7,1.0,77.67,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+255,Auxerre,Bryan Okoh,defenders,64,71,31,52,60,60,75,0,,,,,,,DEF_defense,67.5,0.3,20.25,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+256,Auxerre,Marvin Senaya,defenders,69,70,46,57,66,67,64,0,,,,,,,DEF_defense,65.5,0.3,19.65,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+257,Monaco,Mohammed Salisu,defenders,76,59,36,50,54,77,80,0,,,,,,,DEF_defense,78.5,0.6,47.1,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+258,Monaco,Takumi Minamino,midfielders,78,77,74,75,81,40,64,0,,,,,,,MID_both,65.3,1.0,65.33,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+259,Bayern München,Serge Gnabry,midfielders,82,79,83,78,84,43,66,0,,,,,,,MID_both,68.3,1.2,82.0,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+260,Bayern München,Lennart Karl,attackers,63,69,58,60,69,34,37,0,,,,,,,ATT_attack,65.3,0.3,19.6,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+261,Hellas Verona,Suat Serdar,midfielders,76,67,71,72,78,73,73,0,,,,,,,MID_both,74.3,0.6,44.6,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+262,Hellas Verona,Daniel Mosquera,attackers,71,69,72,54,65,28,74,0,,,,,,,ATT_attack,68.7,0.3,20.6,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+263,Ajax,Ahmetcan Kaplan,defenders,71,63,30,58,57,71,73,0,,,,,,,DEF_defense,72.0,0.3,21.6,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+264,Ajax,Amourricho van Axel Dongen,attackers,65,79,59,59,70,29,53,0,,,,,,,ATT_attack,69.3,0.3,20.8,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+265,Sturm Graz,Filip Rózga,attackers,64,84,55,56,69,25,59,0,,,,,,,ATT_attack,69.3,0.3,20.8,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+266,Sturm Graz,Leon Grgic,attackers,64,65,64,53,60,21,62,0,,,,,,,ATT_attack,63.0,0.3,18.9,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+267,Fredrikstad,Sigurd Kvile,defenders,65,66,29,43,55,63,71,0,,,,,,,DEF_defense,67.0,0.3,20.1,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+268,Fredrikstad,Sondre Sørløkk,midfielders,66,81,63,59,64,54,75,0,,,,,,,MID_both,59.0,0.3,17.7,nor.1,fc26_eafchub,2026-08-13T00:56:02.827886
+269,Sion,Kreshnik Hajrizi,defenders,67,68,33,51,61,65,75,0,,,,,,,DEF_defense,70.0,0.3,21.0,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+270,Sion,Benjamin Kololli,attackers,68,66,70,64,71,54,67,0,,,,,,,ATT_attack,69.0,0.3,20.7,sui.1,fc26_eafchub,2026-08-13T00:56:02.827886
+271,Bodø/Glimt,Håkon Evjen,midfielders,73,87,63,70,76,57,65,0,,,,,,,MID_both,67.7,0.6,40.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+272,Bodø/Glimt,August Mikkelsen,attackers,68,79,61,63,74,34,59,0,,,,,,,ATT_attack,71.3,0.3,21.4,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+273,Celta Vigo,Javi Galán,defenders,80,78,56,75,79,77,73,0,,,,,,,DEF_defense,75.0,1.0,75.0,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+274,Celta Vigo,Matías Vecino,midfielders,77,53,73,75,76,79,75,0,,,,,,,MID_both,76.7,0.6,46.0,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+275,Espanyol,Javi Puado,attackers,78,80,77,72,78,49,74,0,,,,,,,ATT_attack,78.3,1.0,78.33,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+276,Fortuna Sittard,Iván Márquez,defenders,69,51,43,50,50,68,78,0,,,,,,,DEF_defense,73.0,0.3,21.9,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+277,Kristiansund,David Tufekcic,attackers,63,71,58,61,62,38,51,0,,,,,,,ATT_attack,63.7,0.3,19.1,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+278,Thun,Genís Montolio,defenders,66,60,37,61,59,67,64,0,,,,,,,DEF_defense,65.5,0.3,19.65,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+279,Thun,Mattias Käit,midfielders,65,69,61,62,63,64,70,0,,,,,,,MID_both,63.0,0.3,18.9,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+280,Udinese,Jurgen Ekkelenkamp,midfielders,74,70,69,73,73,67,75,0,,,,,,,MID_both,71.0,0.6,42.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+281,Udinese,Alessandro Zanoli,midfielders,72,77,54,65,69,69,68,0,,,,,,,MID_both,67.7,0.6,40.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+282,Anderlecht,Cedric Hatenboer,midfielders,64,65,47,61,67,52,57,0,,,,,,,MID_both,60.0,0.3,18.0,bel.1,fc26_eafchub,2026-08-13T00:56:02.827886
+283,Coventry City,Jack Rudoni,midfielders,74,73,69,74,76,65,75,0,,,,,,,MID_both,71.7,0.6,43.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+284,Fulham,Tom Cairney,midfielders,74,52,71,76,73,66,62,0,,,,,,,MID_both,71.7,0.6,43.0,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+285,Norwich City,Mirko Topic,midfielders,71,65,48,62,61,71,75,0,,,,,,,MID_both,64.7,0.3,19.4,eng.1,fc26_eafchub,2026-08-13T00:56:02.827886
+286,Lille,Hamza Igamane,attackers,73,80,72,63,74,34,70,0,,,,,,,ATT_attack,75.3,0.6,45.2,fra.1,fc26_eafchub,2026-08-13T00:56:02.827886
+287,Freiburg,Florent Muslija,midfielders,71,73,66,71,75,30,47,0,,,,,,,MID_both,58.7,0.3,17.6,ger.1,fc26_eafchub,2026-08-13T00:56:02.827886
+288,Atalanta,Isak Hien,defenders,78,69,37,49,58,79,82,0,,,,,,,DEF_defense,80.5,1.0,80.5,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+289,Fiorentina,Fabiano Parisi,midfielders,75,75,67,70,76,72,67,0,,,,,,,MID_both,72.7,0.6,43.6,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+290,Juventus,Jeff Ekhator,attackers,61,67,60,46,64,19,54,0,,,,,,,ATT_attack,63.7,0.3,19.1,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+291,Lazio,Gustav Isaksen,attackers,76,88,72,67,78,40,48,0,,,,,,,ATT_attack,79.3,0.6,47.6,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+292,Milan,Christian Pulisic,attackers,84,88,82,80,86,46,65,0,,,,,,,ATT_attack,85.3,1.2,102.4,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+293,Torino,Pietro Pellegri,attackers,68,56,68,54,68,21,61,0,,,,,,,ATT_attack,64.0,0.3,19.2,ita.1,fc26_eafchub,2026-08-13T00:56:02.827886
+294,AZ Alkmaar,Jizz Hornkamp,attackers,68,65,72,55,64,56,66,0,,,,,,,ATT_attack,67.0,0.3,20.1,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+295,Grazer AK,Tim Trummer,defenders,62,74,54,56,58,57,61,0,,,,,,,DEF_defense,59.0,0.3,17.7,ned.1,fc26_eafchub,2026-08-13T00:56:02.827886
+296,Excelsior,Kasey Bos,attackers,65,73,46,54,59,65,53,0,,,,,,,ATT_attack,59.3,0.3,17.8,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+297,Ferencvaros,Daniel Arzani,attackers,68,93,60,60,73,34,73,0,,,,,,,ATT_attack,75.3,0.3,22.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+298,Frosinone,Sebastiano Desplanches,keepers,71,,,,,,,1,72,67,68,70,74,26,GK_defense,72.0,0.3,21.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+299,Getafe,Christantus Uche,attackers,76,68,73,69,73,68,83,0,,,,,,,ATT_attack,71.3,0.6,42.8,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+300,Grasshopper,Saulo Decarli,defenders,63,45,34,49,53,62,66,0,,,,,,,DEF_defense,64.0,0.3,19.2,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+301,Mallorca,Jan Salas,midfielders,56,67,25,43,52,52,57,0,,,,,,,MID_both,49.0,0.3,14.7,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+302,Moreirense,Dinis Pinto,defenders,69,75,42,61,66,66,59,0,,,,,,,DEF_defense,62.5,0.3,18.75,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+303,PAOK Thessaloniki,Shola Shoretire,attackers,66,72,57,61,71,38,56,0,,,,,,,ATT_attack,66.7,0.3,20.0,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+304,PEC Zwolle,Younes Namli,attackers,71,68,65,70,74,44,60,0,,,,,,,ATT_attack,69.0,0.3,20.7,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+305,Poland,Filip Rózga,attackers,64,84,55,56,69,25,59,0,,,,,,,ATT_attack,69.3,0.3,20.8,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+306,Schalke 04,Adrian Gantenbein,midfielders,65,73,48,58,62,59,65,0,,,,,,,MID_both,59.7,0.3,17.9,unknown,fc26_eafchub,2026-08-13T00:56:02.827886
+307,Strasbourg,Joaquín Panichelli,attackers,74,68,75,62,70,27,79,0,,,,,,,ATT_attack,71.0,0.6,42.6,unknown,fc26_eafchub,2026-08-13T00:56:02.827886

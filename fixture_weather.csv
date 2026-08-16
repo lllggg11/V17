@@ -1,0 +1,103 @@
+fixture_id,home_team,venue,city,lat,lon,temperature_c,humidity_pct,precipitation_mm,wind_speed_kmh,weather_code,forecast_date,source,fetched_at
+5920,Kairat Almaty,Turkistan Arena,Almaty,43.23,76.95,24.0,50.0,0.5,8.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5921,Bodo/Glimt,Aspmyra Stadion,Bodø,67.28,14.4,12.0,75.0,2.0,15.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5922,Sabah FK,Bank Respublika Stadium,Sabah,5.5,116.8,26.0,80.0,5.0,5.0,95,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5923,Kauno Zalgiris,S. Darius and S. Gireno Stadium,Kaunas,54.9,23.89,19.0,70.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5924,NEC Nijmegen,Goffertstadion,Nijmegen,51.85,5.86,20.0,75.0,1.5,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5925,Red Star Belgrade,Rajko Mitic Stadium,Belgrade,44.82,20.46,24.0,55.0,0.5,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5926,NK Celje,Stadion Z'dezele,Celje,46.24,15.27,21.0,70.0,2.0,8.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5927,Slovan Bratislava,Národny Futbalovy Stadión,Bratislava,48.14,17.11,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5928,SK Sturm Graz,Merkur Arena,Graz,47.07,15.43,21.0,65.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+5929,Lyon,Groupama Stadium,Lyon,45.76,4.84,23.0,55.0,1.0,11.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11426,Besiktas,Vodafone Park,Istanbul,41.01,28.96,26.0,65.0,1.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11427,CSU Craiova,Stadionul Ion Oblemenco,Craiova,44.33,23.82,24.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11428,Gornik Zabrze,,Zabrze,50.32,18.79,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11429,Omonia Nicosia,GSP Stadium,Nicosia,35.17,33.37,30.0,50.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11430,Pafos,Alphamega Stadium,Paphos,34.77,32.43,28.0,60.0,0.0,13.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11431,KI Klaksvik,Tórsvollur,Klaksvík,62.23,-6.58,12.0,85.0,3.0,18.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11432,Vikingur Reykjavik,Vikingsvöllur,Reykjavik,64.13,-21.94,12.0,80.0,2.5,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11433,CSKA Sofia,Vasil Levski National Stadium,Sofia,42.7,23.32,22.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11434,Anderlecht,Lotto Park,Brussels,50.85,4.35,20.0,75.0,2.0,13.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11435,Rangers,Ibrox Stadium,Glasgow,55.86,-4.25,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11436,Heart of Midlothian,Tynecastle Park,Edinburgh,55.95,-3.19,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11437,Egnatia,Arena Egnatia,Rrogozhinë,41.08,19.97,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11438,F.C. København,Parken Stadium,Copenhagen,55.68,12.57,18.0,75.0,2.0,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11439,GKS Katowice,Arena Katowice,Katowice,50.26,19.03,20.0,70.0,1.5,11.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11440,Rapid Vienna,Allianz Stadion,Vienna,48.21,16.37,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11441,Tobol Kostanay,,Kostanay,53.2,63.62,22.0,55.0,0.5,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11442,FC Ilves,Tammelan Stadion,Tampere,61.5,23.76,16.0,75.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11443,FK Qarabag,Tofiq Bahramov Republican Stadium,Baku,40.38,49.83,27.0,60.0,0.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11444,Flora,A. Le Coq Arena,Tallinn,59.44,24.75,17.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11445,Rigas Futbola Skola,LNK Sports Park,Riga,56.95,24.11,18.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11446,Dinamo Minsk,,Minsk,53.9,27.57,19.0,70.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11447,Dunajska Streda,MOL Aréna,Dunajska Streda,47.99,17.61,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11448,FC Midtjylland,MCH Arena,Herning,56.14,8.99,17.0,80.0,2.0,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11449,FC Nordsjælland,Right to Dream Park,Farum,55.81,12.37,18.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11450,Hammarby IF,Tele2 Arena,Stockholm,59.33,18.07,18.0,70.0,1.5,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11451,ML Vitebsk,Mezokovesdi Varosi Stadion,Vitebsk,55.19,30.21,19.0,75.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11452,Tromso,Romssa Arena,Tromsø,69.65,18.96,12.0,78.0,2.5,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11453,FC Vaduz,Rheinpark Stadion,Vaduz,47.14,9.52,19.0,70.0,2.0,7.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11454,NSI Runavik,Djúpumyrar,Runavík,62.41,-6.73,12.0,85.0,4.0,18.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11455,Drita Gjilan,Stadiumi Fadil Vokrri,Gjilan,42.46,21.47,23.0,55.0,0.5,9.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11456,KF Shkëndija,Toše Proeski Arena,Tetovo,42.01,20.97,23.0,55.0,0.5,9.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11457,St. Gallen,Kybunpark,St. Gallen,47.42,9.37,19.0,75.0,3.0,8.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11458,FC Sion,Stade de Tourbillon,Sion,46.23,7.36,20.0,65.0,1.0,8.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11459,Austria Vienna,Generali-Arena,Vienna,48.21,16.37,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11460,Györi ETO FC,,Győr,47.68,17.64,23.0,60.0,1.0,11.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11461,KAA Gent,Ghelamco Arena,Ghent,51.05,3.72,20.0,78.0,2.0,13.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11462,Motherwell,Fir Park,Motherwell,55.79,-3.99,15.0,82.0,3.0,15.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11463,Shelbourne,Tolka Park,Dublin,53.35,-6.26,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11464,Dinamo City,Elbasan Arena,Tbilisi,41.72,44.79,26.0,50.0,0.5,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+11465,Hajduk Split,Stadion Poljud,Split,43.51,16.45,26.0,50.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12253,Dinamo Zagreb,Maksimir Stadium,Zagreb,45.81,15.98,23.0,60.0,1.5,9.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12254,Fenerbahce,Ulker Stadyumu,Istanbul,41.01,28.96,26.0,65.0,1.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12255,Levski Sofia,Vasil Levski National Stadium,Sofia,42.7,23.32,22.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12256,Celtic,Celtic Park,Glasgow,55.86,-4.25,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12257,Hapoel Be'er,Giulesti Stadium,Beersheba,31.25,34.79,28.0,45.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12258,NEC Nijmegen,Goffertstadion,Nijmegen,51.85,5.86,20.0,75.0,1.5,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+12259,Slovan Bratislava,Národny Futbalovy Stadión,Bratislava,48.14,17.11,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401898017,Rangers,Ibrox Stadium,Glasgow,55.86,-4.25,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902560,Drita Gjilan,Stadiumi Fadil Vokrri,Gjilan,42.46,21.47,23.0,55.0,0.5,9.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902562,Egnatia,Arena Egnatia,Rrogozhinë,41.08,19.97,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902665,Omonia Nicosia,GSP Stadium,Nicosia,35.17,33.37,30.0,50.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902675,KI Klaksvik,Tórsvollur,Klaksvík,62.23,-6.58,12.0,85.0,3.0,18.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902698,Vikingur Reykjavik,Vikingsvöllur,Reykjavik,64.13,-21.94,12.0,80.0,2.5,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902699,CSU Craiova,Stadionul Ion Oblemenco,Craiova,44.33,23.82,24.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902717,Pafos,Alphamega Stadium,Paphos,34.77,32.43,28.0,60.0,0.0,13.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902935,Besiktas,Vodafone Park,Istanbul,41.01,28.96,26.0,65.0,1.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902940,Gornik Zabrze,Stadion im. Ernesta Pohla,Zabrze,50.32,18.79,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902941,Anderlecht,Lotto Park,Brussels,50.85,4.35,20.0,75.0,2.0,13.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902944,CSKA Sofia,Vasil Levski National Stadium,Sofia,42.7,23.32,22.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902950,Györi ETO FC,ETO Park,Győr,47.68,17.64,23.0,60.0,1.0,11.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902953,FC Ilves,Tammelan Stadion,Tampere,61.5,23.76,16.0,75.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902955,Flora,A. Le Coq Arena,Tallinn,59.44,24.75,17.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401902960,Heart of Midlothian,Tynecastle Park,Edinburgh,55.95,-3.19,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903008,FC Vaduz,Rheinpark Stadion,Vaduz,47.14,9.52,19.0,70.0,2.0,7.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903037,NSI Runavik,Djúpumyrar,Runavík,62.41,-6.73,12.0,85.0,4.0,18.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903098,Tromso,Romssa Arena,Tromsø,69.65,18.96,12.0,78.0,2.5,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903100,ML Vitebsk,Mezokovesdi Varosi Stadion,Vitebsk,55.19,30.21,19.0,75.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903101,Dunajska Streda,MOL Aréna,Dunajska Streda,47.99,17.61,18.0,70.0,1.0,10.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903102,Dinamo Minsk,Stadion Beroe,Minsk,53.9,27.57,19.0,70.0,2.0,10.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903103,FC Sion,Stade de Tourbillon,Sion,46.23,7.36,20.0,65.0,1.0,8.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903104,Dinamo City,Elbasan Arena,Tbilisi,41.72,44.79,26.0,50.0,0.5,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903105,Shelbourne,Tolka Park,Dublin,53.35,-6.26,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903106,KAA Gent,Ghelamco Arena,Ghent,51.05,3.72,20.0,78.0,2.0,13.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903107,KF Shkëndija,Toše Proeski Arena,Tetovo,42.01,20.97,23.0,55.0,0.5,9.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903108,Motherwell,Fir Park,Motherwell,55.79,-3.99,15.0,82.0,3.0,15.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903109,Hammarby IF,Tele2 Arena,Stockholm,59.33,18.07,18.0,70.0,1.5,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903110,Rigas Futbola Skola,LNK Sports Park,Riga,56.95,24.11,18.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903111,Austria Vienna,Generali-Arena,Vienna,48.21,16.37,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903112,FK Qarabag,Tofiq Bahramov Republican Stadium,Baku,40.38,49.83,27.0,60.0,0.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903113,St. Gallen,Kybunpark,St. Gallen,47.42,9.37,19.0,75.0,3.0,8.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903114,FC Midtjylland,MCH Arena,Herning,56.14,8.99,17.0,80.0,2.0,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903118,Tobol Kostanay,Almaty Ortalyk Stadium,Kostanay,53.2,63.62,22.0,55.0,0.5,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903119,Hajduk Split,Stadion Poljud,Split,43.51,16.45,26.0,50.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903120,FC Nordsjælland,Right to Dream Park,Farum,55.81,12.37,18.0,75.0,2.0,12.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401903528,Celtic,Celtic Park,Glasgow,55.86,-4.25,15.0,80.0,3.0,16.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909156,Levski Sofia,Vasil Levski National Stadium,Sofia,42.7,23.32,22.0,55.0,1.0,10.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909158,Dinamo Zagreb,Maksimir Stadium,Zagreb,45.81,15.98,23.0,60.0,1.5,9.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909193,Hapoel Be'er,Giulesti Stadium,Beersheba,31.25,34.79,28.0,45.0,0.0,12.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909195,Slovan Bratislava,Národny Futbalovy Stadión,Bratislava,48.14,17.11,22.0,60.0,1.0,12.0,1,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909197,NEC Nijmegen,Goffertstadion,Nijmegen,51.85,5.86,20.0,75.0,1.5,14.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909204,Fenerbahce,Ulker Stadyumu,Istanbul,41.01,28.96,26.0,65.0,1.0,14.0,0,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
+401909279,KI Klaksvik,Tórsvollur,Klaksvík,62.23,-6.58,12.0,85.0,3.0,18.0,61,2026-08-13,climate_baseline_aug,2026-08-14T23:06:10.784739+00:00
